@@ -511,5 +511,8 @@
     "BuyBusinessConfirmMessage": "Are you sure you want to buy this business?",
     "BuyBusinessConfirmTitle": "Attention!",
     "BuyHouseConfirmMessage": "Are you sure you want to buy this house?",
-    "BuyHouseConfirmTitle": "Attention!"
+    "BuyHouseConfirmTitle": "Attention!",
+	"BuyBusinessLabel": "Use {1} to buy this business",
+	"BuyHouseLabel": "Use {1} to buy this house",
+	"RentHouseLabel": "Use {1} to rent this house"
 }

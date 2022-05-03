@@ -503,5 +503,12 @@
     "MustOwnHouse": "You don't own this house!",
     "MustOwnBusiness": "You don't own this business!",
     "GaveHouseToClan": "You gave this house to your clan!",
-    "GaveBusinessToClan": "You gave this business to your clan!"
+	"GaveBusinessToClan": "You gave this business to your clan!",
+    "BuyBusinessConfirmMessage": "Are you sure you want to buy this business?",
+    "BuyBusinessConfirmTitle": "Attention!",
+    "BuyHouseConfirmMessage": "Are you sure you want to buy this house?",
+    "BuyHouseConfirmTitle": "Attention!",
+	"BuyBusinessLabel": "Use {1} to buy this business",
+	"BuyHouseLabel": "Use {1} to buy this house",
+	"RentHouseLabel": "Use {1} to rent this house"
 }
