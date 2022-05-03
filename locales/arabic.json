@@ -1,0 +1,507 @@
+{
+	"TranslationProvidedBy": "Kasir",
+	"LocaleEnglishName": "Arabic",
+
+	"LocaleNativeName": "عربى",
+	"LocaleOffer": ".الخادم متاح باللغة الإنجليزية.استخدم {1} لاستخدامه",
+	"LocaleChanged1": "لغتك الآن على {1}",
+	"LocaleChanged2": "سيعرض الخادم الآن الرسائل في {1}",
+	"LocaleChangedNote": "هذا لا يغير الرسائل من اللاعبين الآخرين",
+	"AccentsListHeader": "لهجآت",
+	"HeaderHelpMainList": "فئة الدعم",
+	"AccentNotFound": "اللكنة الحالية غير متوفرة",
+	"AccentSet": "قمت بتعيين لهجتك على {1}",
+	"InvalidAnimation": "هذه الرسوم المتحركة غير متوفرة",
+	"AnimationCommandTip": "استخدم {1} لمشاهدة قائمة الرسوم المتحركة المتاحة",
+	"InvalidAnimationDistance": "يجب المسافة تكون بين 0 و 3",
+	"AnimationStopCommandTip": "استخدم {1} لإيقاف الرسوم المتحركة",
+	"CantBanClient": "لا يمكنك حظر هذا الإعب",
+	"PlayerAccountBanned": "تم حظر حساب {1}",
+	"ClanNotFound": "لم يتم العثور على المجموعة",
+	"ClanNameTaken": "توجد مجموعة بهذا الاسم بالفعل",
+	"PlayerNotFound": "الاعب غير موجود",
+	"ClanCantRemoveRanks": "لا يمكنك إزالة رتب المجموعة",
+	"ClanCantAddRanks": "لأ يمكنك إضافة رتب",
+	"ClanRankNotFound": "رتبة غير موجودهـ",
+	"ClanCantChangeMemberTag": "ليس لديك الصلاحيات لتعديل على علامات رتب الاعضاء",
+	"ClanPlayerNotInSameClan": "الاعب غير موجود بمجموعتك",
+	"ClanCantChangeRankLevel": "ليس لديك صلاحيات لتغيير مستوى رتبة المجموعة",
+	"ClanCantChangeRankTag": "لا يمكنك تغيير علامات رتب المجموعة",
+	"NameNotRegistered": "اسمك غير مسجل! استخدم {1} لإنشاء حساب.",
+	"AutomaticLoginIPToggle": "IP تم تفعيل {1} تسجيل الدخول التلقائي عن طربق",
+	"CouldNotRegisterAccount": "حدثت مشكلة في إنشاء حسابك, يرجى التواصل بـ إلاداره.",
+	"RandomTipsToggle": "النصائح العشوائية{1}",
+	"ActionTipsToggle": "نصائح العمل{1}",
+	"AutoSpawnLastCharToggle": "النشر التلقائي كأخر حرف تم استخدامه هو {1}",
+	"AccountGUISettingToggle": "واجهة المستخدم الرسومية هي الآن {1}",
+	"On": "تشغيل",
+	"Off": "إيقاف",
+	"Yes": "موافق",
+	"No": "لا",
+	"True": "صحيح",
+	"False": "خطأ",
+	"Locked": "مغلق",
+	"Unlocked": "مفتوح",
+	"PasswordNotGoodEnough": "كلمة المرور الجديدة يجب أن تفي بالمتطلبات!",
+	"PasswordNeedsBase": " {1} يجب أن تحتوي كلمات المرور على الأقل",
+	"PasswordNeedsCapitals": "{1}من الأحرف الكبيرة",
+	"PasswordNeedsNumbers": "{1} أرقام",
+	"PasswordNeedsSymbols": "{1} حروف او رموز",
+	"PasswordsDontMatch": "كلمة المرور الجديدة وتأكيد كلمة المرور الجديدة ليسا متطابقين!!",
+	"PasswordChanged": "تم بنجاح تغيير كلمة المرور!",
+	"AutoLoggedInIP": "IP تم تسجيل دخولك تلقائيًا بواسطة!",
+	"WelcomeBack":  "مرحبًا بك مرة أخرى في {1} ، {2}! من فضلك {3} للمتابعة.",
+	"WelcomeNewPlayer": "مرحبًا بك في {1} ، {2}! من فضلك {3} للعب.",
+	"InvalidPlayer": "اللاعب غير موجود!",
+	"InvalidBusiness": "لم يتم العثور على الأعمال!",
+	"InvalidHouse": "البيت غير موجود!",
+	"InvalidVehicle": "لم يتم ايجاد السيارة!",
+	"InvalidClan": "لم يتم العثور على المجموعة!",
+	"InvalidClanRank": "رتبة غير موجوده!",
+	"InvalidJob": "لم يتم العثور على الوظيفة!",
+	"InvalidItem": "العنصر غير موجود!",
+	"InvalidItemType": "نوع العنصر غير موجود!",
+	"InvalidRadioStation": "لم يتم العثور على محطة راديو!",
+	"InvalidGate": "البوابة غير موجودة!",
+	"EntersProperty": "يفتح الباب ويدخل {1}",
+	"ExitsProperty": "يفتح الباب ويخرج من {1}",
+	"EnterExitPropertyDoorLocked": "يحاول فتح الباب {1} ولكنه يفشل لأنه مغلق",
+	"PropertyNoInterior": "هذا ليس له جزء داخلي {1}، ولكن لا يزال بإمكانك استخدام الأوامر على أيقونة الباب.",
+	"NoBusinessWithItemType": "لا يوجد عمل مع هذا الخيار متاح",
+	"HeaderKeyBinds": "مفتاح الروابط",
+	"HeaderAccountHelp": "مساعدة الحساب",
+	"HeaderVehicleHelp": "تعليمات السيارة",
+	"HeaderVehicleDealershipHelp": "مساعدة بيع سيارات",
+	"HeaderJobHelp": "تعليمات الوظيفة",
+	"HeaderChatHelp": "تعليمات الدردشة",
+	"HeaderServerRules": "قوانين سيرفر",
+	"HeaderWebsiteInfo": "الموقع الرسمي",
+	"HeaderDiscordInfo": "ديسكورد",
+	"HeaderAnimationsList": "قائمة الرسوم المتحركة",
+	"HeaderPayAndSprayHelp": "الدفع ,ورشٌ المساعده",
+	"HeaderAmmunationHelp": "مساعدة الذخيرة",
+	"HeaderVehicleTuneupHelp": "مساعدة تعديل السيارة",
+	"HeaderBindableKeysHelp": "مفاتيح قابلة للربط",
+	"HeaderSkinHelp": "مساعدة الملابس / الجلد",
+	"HeaderBusinessHelp": "تعليمات الأعمال",
+	"HeaderClanHelp": "تعليمات المجموعة",
+	"HeaderPlayerVehiclesList": "مركبات المشغل ({1})",
+	"HeaderPlayerBusinessesList": "أعمال اللاعب ({1})",
+	"HeaderClansList": "قائمة المجموعة",
+	"HeaderAdminsList": "قائمة الادمن",
+	"HeaderBadgeInfo": "معلومات الشاره",
+	"HeaderAccentsList": "قائمة اللغة",
+	"HeaderPlayerInfo": "معلومات الاعب",
+	"HeaderWealthandTaxHelp": "معلومات المال",
+	"HeaderCommandInfo": "معلومات الإوامر ({1})",
+	"HeaderRadioHelp": "تعليمات راديو",
+	"HeaderRadioStationsList": "محطات الردايو",
+	"HeaderKeyBindsList": "قائمة روابط المفاتيح",
+	"RadioVolumeChanged": "{1} لقد {2} غيرت مستوى صوت البث اللاسلكى إلى٪",
+	"VolumeLevelNotNumber": "يجب أن يكون مستوى الصوت رقمًا",
+	"RadioStationLocationInvalid": "يجب أن تكون في سيارة أو منزل أو عمل أو لديك جهاز شخصي لتغيير المحطة!",
+	"ActionBusinessRadioStationChange": "تغيير محطة راديو الأعمال إلى {1} ({2})",
+	"ActionHouseRadioStationChange": "تغيير محطة راديو المنزل إلى {1} ({2})",
+	"ActionVehicleRadioStationChange": "يغير محطة راديو السيارة إلى {1} ({2})",
+	"ActionItemRadioStationChange": "يغير محطة {1} إلى {2} ({3})",
+	"RandomVehicleCommandsDisabled": "هذه مركبة مرور عشوائية ولا يمكن استخدام الأوامر لها.",
+	"HouseDoorLock": "البيت {1} {2}!",
+	"BusinessDoorLock": "الأعمال {1} {2}!",
+	"ServerGameModeRestarting": "يتم إعادة تشغيل وضع لعبة الخادم!",
+	"HeaderSelfItemList": "المخزون الخاص بك",
+	"HeaderPlayerItemList": "مخزون الاعب ({1})",
+	"HeaderHouseItemList": "بيت الاعب",
+	"HeaderBusinessFloorItemList": "جرد الأعمال (للبيع)",
+	"HeaderBusinessStorageItemList": "جرد الأعمال (التخزين)",
+	"HeaderItemItemList": "مخزون {1}",
+	"ItemSlotNotNumber": "يجب أن تكون خانة العنصر رقمًا",
+	"ItemSlotMustBeBetween": "The item slot must be between {1} and {2}!",
+	"UseItemBugged": "العنصر الذي تحاول استخدامه به التنصت. تم إرسال تقرير خطأ إلى مطوري الخادم.",
+	"PickupItemBugged": "العنصر الذي تحاول استلامه به التنصت. تم إرسال تقرير خطأ إلى مطوري الخادم.",
+	"DropItemBugged": "تم التنصت على العنصر الذي تحاول إسقاطه. تم إرسال تقرير خطأ إلى مطوري الخادم.",
+	"HandsBusy": "يديك مشغولتان",
+	"CantUseItemInSkinChange": "لا يمكنك استخدام عنصر أثناء تخصيص مظهرك",
+	"CantDropItemInSkinChange": "لا يمكنك إسقاط عنصر أثناء تخصيص مظهرك",
+	"CantPickupItemInSkinChange": "لا يمكنك التقاط عنصر أثناء تخصيص مظهرك",
+	"CantSwitchItemInSkinChange": "لا يمكنك تبديل عنصر أثناء تخصيص مظهرك",
+	"CantGiveItemInSkinChange": "لا يمكنك إعطاء عنصر أثناء تخصيص مظهرك",
+	"CantTakeItemInSkinChange": "لا يمكنك أن تأخذ عنصرًا أثناء تخصيص مظهرك",
+	"ItemUnequippableNoAmmo": "لا تحتوي الفتحة {1} الموجودة في الفتحة {2} على ذخيرة ، ولا يمكن تجهيزها!",
+	"NoSpaceSelfInventory": "ليس لديك أي مساحة إضافية في مخزونك",
+	"Business": "الاعمال",
+	"House": "البيت",
+	"Clan": "المجموعة",
+	"Vehicle": "السيارة",
+	"Item": "الاغراض",
+	"ItemType": "نوع العنصر",
+	"Gate": "بوابة",
+	"Door": "باب",
+	"ClanRank": "رتبة المجموعة",
+	"JobRank": "رتبة الوظيفة",
+	"RadioStation": "المحطة الإذاعية",
+	"Months": [
+		"يناير",
+		"فبراير",
+		"مارس",
+		"أبريل",
+		"مايو",
+		"يونيو",
+		"يوليو",
+		"أغسطس",
+		"سبتمبر",
+		"أكتوبر",
+		"نوفمبر",
+		"ديسمبر"
+	],
+	"WeekDays": [
+		"الأحد",
+		"الإثنين",
+		"الثلاثاء",
+		"الاربعاء",
+		"الخميس",
+		"الجمعه",
+		"السبت"
+   ],
+	"CardinalDirections": [
+		"شمال",
+		"الشمال الشرقي",
+		"شرق",
+		"الجنوب الشرقي",
+		"جنوب",
+		"جنوب غرب",
+		"غرب",
+		"الشمال الغربي"
+	],
+	"NewPlayerReadyToPlay": [
+		"لقد حصلت على بعض من المال. استخدم {1} للبحث عن أماكن لشراء العناصر.",
+		"إذا كنت بحاجة إلى المال،الوظائف هي النقاط الصفراء على الخريطة.",
+		"للحصول على سيارة ، قم بزيارة وكالة السيارات. يمكنك أيضًا استخدام سيارة مستأجرة بالقرب من السباون أو ركوب القطار",
+		"تأكد من قراءة {1} واستخدم {2} للحصول على معلومات."
+	],
+	"YourCurrentVehicleDeleted": "تم حذف السيارة التي كنت بداخلها.",
+	"Distance": "مسافة",
+	"Meters": "أمتار",
+	"Feet": "قدم",
+	"Kilometers": "كيلومترات",
+	"Miles": "اميال",
+	"MustBeVehicleDriver": "يجب أن تكون سائق السيارة!",
+	"PlayerJoinedServer": "انضم إلى اللعبة من {1}!",
+	"PlayerLeftServer": "غادر {1} اللعبة! ({2})",
+	"DisconnectReasons": [
+		"انقطع الإتصال",
+		"انقطع الاتصال",
+		"عميل غير مدعوم",
+		"تحذير للعبة",
+		"كلمة سر غير صحيحه",
+		"قابل للتنفيذ غير معتمد",
+		"انقطع الاتصال",
+		"حظر",
+		"فشل",
+		"اسم غير صالح",
+		"خطأ"
+	],
+	"TakeItemFromHouse": "يأخذ {1} من المنزل",
+	"TakeItemFromBusinessStorage": "يأخذ {1} من تخزين الشركة",
+	"TakeItemFromBusiness": "يأخذ {1} من الأعمال",
+	"TakeItemFromItem": "يأخذ {1} من {2}",
+	"TakeItemFromVehicleTrunk": "يأخذ {1} من صندوق السيارة",
+	"TakeItemFromVehicleDash": "يأخذ {1} من صندوق القفازات",
+	"JobEquipmentInventoryKeyBindTip": "معدات العمل في مخزونك. اضغط على {1} لمشاهدتها.",
+	"JobEquipmentInventoryCommandTip": "معدات العمل في مخزونك. استخدم {1} لمشاهدتها.",
+	"AccountHelp": [
+		"لا تشارك كلمة مرورك مع أي شخص آخر. لن يطالبك فريق عمل {1} بكلمة المرور مطلقًا",
+		"استخدم {1} لتغيير كلمة المرور الخاصة بك ، و {2} إذا نسيتها",
+		"بعض الإعدادات التي يمكنك استخدامها: {1}"
+	],
+	"VehicleHelp": [
+		"ستوفر مركباتك الشخصية أينما تتركها أنت أو أي شخص آخر!",
+		"قم بزيارة المعرض لشراء مركبات جديدة (استخدم {1} لمزيد من المعلومات)",
+		"Some commands: {1}",
+		"قم بزيارة مرآب ميكانيكي لإصلاح وتلوين وضبط سيارتك! {1} للحصول على معلومات"
+	],
+	"VehicleDealershipHelp": [
+		"قم بزيارة تاجر سيارات لشراء مركبات جديدة. استخدم {1} للعثور على واحد.",
+		"عند التاجر ، أدخل السيارة التي تريد شراءها ، وسيظهر لك السعر",
+		"إذا كنت ترغب في شراء السيارة ، فاستخدم {1} وستحصل على مفاتيح لاختبار قيادتها حول ساحة الانتظار.",
+		"ابتعد عن الوكالة مع السيارة الجديدة لتأكيد الشراء."
+	],
+	"JobHelp": [
+		"قم بزيارة مواقع العمل للحصول على وظيفة وكسب المال. ابحث عن علامات الصفراء على الخريطة",
+		"في موقع العمل ، استخدم {1} للحصول على الوظيفة. استخدم {2} لإنهاء عملك",
+		"استخدم {1} لبدء العمل. يمكنك أيضًا الحصول على وظيفة {2} و {3}",
+		"يتم تأمين معظم مركبات العمل. استخدم {1} بالقرب من واحد للدخول إليه.",
+		"عند دخول مركبة عمل ، ستظهر لك معلومات حول كيفية القيام بالمهمة."
+	],
+	"ChatHelp": [
+		"(IC)والشخصية(OOC)هناك نوعان رئيسيان من الدردشة: خارج الطابع الشخصي",
+		"الخلط بين هذين النوعين ليس لعب الأدوار المناسب. راجع {1} للحصول على معلومات.",
+		"بعض أوامر الدردشة: {1}",
+		"يتوفر لبعضها أسماء أقصر ({1} للتحدث ، {2} للصراخ ، إلخ)"
+	],
+	"ServerRulesHelp": [
+		".غير مسموح بها.انت لست سوبر مان(powergaming)الإجراءات غير الواقعية",
+		"لا يسمح بأدوار إرهابية",
+		"اتبع دائمًا التعليمات التي قدمها المشرفون والاداره",
+		"لا تخلط الدردشات (metagaming). لا يمكنك استخدام المعلومات في IC التي تم استلامها OOC",
+		"حافظ على اللغة الإنجليزية في الدردشات الرئيسية. إذا لم تكن جيدًا في اللغة الإنجليزية ، فاستخدم {1}"
+	],
+	"AnimationHelp": [
+		"تتيح لك الرسوم المتحركة تحسين لعب الأدوار من خلال الإجراءات المرئية",
+		"استخدم {1} أو {2} مع اسم لاستخدام الرسم المتحرك.",
+		"لمشاهدة قائمة الرسوم المتحركة ، استخدم {1}"
+	],
+	"WeaponHelp": [
+		"قم بزيارة متجر أسلحة لشراء أسلحة. استخدم {1} للعثور على واحد.",
+		"شراء سلاح يتطلب رخصة سلاح.",
+		"يتم إدارة تراخيص الأسلحة من قبل قسم الشرطة. قدم طلبًا للحصول على واحدة ",
+		"يمكن أيضًا شراء الأسلحة بشكل غير قانوني من بعض الشركات وتجار الأسلحة والعصابات."
+	],
+	"SkinHelp": [
+		"في متجر الملابس ، استخدم {1} لشراء الملابس",
+		"عندما يكون لديك عنصر من الملابس ، قم بتجهيزه واستخدامه مثل أي عنصر آخر لإظهار اختيار الجلد (حدد {1} لمعرفة كيفية استخدام العناصر)",
+		"Some skins are restricted to jobs, clans, or for other reasons."
+	],
+	"KeyBindHelp": [
+		"يمكنك تعيين روابط المفاتيح الخاصة بك. استخدم {1} لرؤية المفاتيح التي تم ربطها.",
+		"استخدم {1} لإضافة رابط مفتاح جديد و {2} لإزالة واحد.",
+		"المفاتيح الافتراضية هي: {1} لمحرك السيارة و {2} للأضواء و {3} للقفل / فتح القفل",
+		"اضغط على {1} لمشاهدة عناصرك و {2} لتجهيز عنصر أو {3} لإلغاء تجهيز الكل.",
+		"اضغط على {1} لاستخدام العنصر الذي تمسكه ، أو اضغط على {2} لإسقاطه ، أو اضغط على {3} لالتقاط عنصر من الأرض."
+	],
+	"BusinessHelp": [
+		"استخدم {1} لشراء العناصر أو {2} لمشاهدة قائمة بما هو معروض للبيع في أي شركة",
+		"تظهر الشركات بأسماء زرقاء فوق الرمز عند مدخلها.",
+		"أوامر صاحب العمل: {1}",
+		"ستظهر سيارة جديدة معروضة للبيع عندما تبتعد عن الوكيل."
+	],
+	"ClanHelp": [
+		"اطلب من الإدارة إنشاء تيم(القبيلة) (على غرار الفصائل / المجموعات / العائلات)",
+		"يتمتع مالكو التيم(القبيلة) بالسيطرة الكاملة على افراد المجموعة بمجرد إنشائها",
+		"أوامر القبيلة: {1}",
+		"أوامر القبيلة: {1}"
+	],
+	"RadioStationHelp": [
+		"استخدم {1} لتعيين المحطة لمركبتك أو منزلك أو عملك",
+		"استخدم {2} لمشاهدة قائمة المحطات",
+		"يمكنك تغيير حجم تدفق الراديو باستخدام {1} مع 0-100 كنسبة مئوية"
+	],
+	"WealthAndTaxHelp": [
+		"ضرائبك في يوم الدفع هي {1} بالمائة من ثروتك المحسوبة.",
+		"ثروتك المحسوبة هي مجموع إجمالي يعتمد على عدد المركبات والمنازل والشركات التي لديك.",
+		"كل سيارة {1} ، كل منزل {2} ، وكل عمل {3}",
+		"استخدم {1} لمعرفة ثروتك الحالية ، و {2} لمعرفة المبلغ الذي ستدفعه كضريبة في كل يوم دفع"
+	],
+	"MustBeInAVehicle": "يجب أن تكون في مركبة!",
+	"MustBeInOrNearVehicle": "أنت بحاجة إلى أن تكون في السيارة أو بالقرب منها!",
+	"MustBeInVehicleFrontSeat": "يجب أن تكون في المقاعد الأمامية للسيارة!",
+	"MustBeInVehicleDriverSeat": "يجب أن تكون السائق!",
+	"DontHaveVehicleKey": "ليس لديك مفتاح لهذه السيارة!",
+	"NoGateAccess": "لا يمكنك الوصول إلى هذه البوابة!",
+	"GateBroken": "هذه البوابة مكسورة!",
+	"GateHacked": "البوابة لا تستجيب!",
+	"RadioJammed": "تسمع صوتًا ثابتًا فقط من الراديو.",
+	"VehicleNotForSale": "هذه السيارة ليست للبيع!",
+	"VehicleNotForRent": "هذه السيارة ليست للإيجار!",
+	"BusinessNotForSale": "هذا العمل ليس للبيع!",
+	"BusinessNotForRent": "هذا العمل ليس للإيجار!",
+	"HouseNotForSale": "هذا المنزل ليس للبيع!",
+	"HouseNotForRent": "هذا المنزل ليس للإيجار!",
+	"DealershipPurchaseTestDrive": "قم بقيادة السيارة بعيدًا عن الوكالة لشرائها ، أو اخرج للإلغاء.",
+	"DealershipPurchaseExitedVehicle": "لقد ألغيت شراء السيارة بالخروج من السيارة!",
+	"VehiclePurchaseComplete": "هذه السيارة الآن لك!",
+	"VehiclePurchaseNotEnoughMoney": "ليس لديك ما يكفي من المال لشراء هذه السيارة!",
+	"HousePurchaseNotEnoughMoney": "ليس لديك ما يكفي من المال لشراء هذا المنزل!",
+	"BusinessPurchaseNotEnoughMoney": "ليس لديك ما يكفي من المال لشراء هذا العمل!",
+	"Locales": {
+		"English": "انجلزي",
+		"Russian": "روسي",
+		"Spanish": "الإسبانية",
+		"German": "الإلمانية",
+		"Dutch": "الهولندية",
+		"Polish": "البولندية"
+	},
+
+	"ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
+	"HeaderPlayerHousesList": "بيوت اللاعبين ({1})",
+	"HeaderPlayerStaffFlagsList": "أعلام طاقم العمل ({1})",
+	"HeaderStaffFlagsList": "أعلام الموظفين",
+	"NonRPName": "اسم غير RP! اختر واحدة جديدة:",
+	"InvalidStaffFlag": "لم يتم العثور على علم الموظفين!",
+	"InvalidClanFlag": "علم القبيلة غير موجود!",
+	"InvalidLocale": "اللغة غير موجودة!",
+	"HeaderJobUniformList": "زي العمل ({1})",
+	"HeaderJobEquipmentList": "معدات العمل ({1})",
+	"InvalidJobUniform": "زي العمل غير موجود!",
+	"InvalidJobEquipment": "لم يتم العثور على معدات العمل!",
+	"HeaderVehiclesInRangeList": "مركبات داخل {1}",
+	"NoVehiclesWithInRange": "لا توجد مركبات داخل {1}",
+	"AmountNotNumber": "المبلغ يجب أن يكون رقما!",
+	"NeedToBeWorking": "يجب أن تعمل! استخدم {1} في موقع العمل أو بالقرب من سيارات العمل.",
+	"NeedToBeOnJobRoute": "عليك أن تفعل طريق عمل! استخدم {1} في مركبة عمل",
+	"CurrentJobRouteDeleted": "تم حذف مسار العمل الذي كنت تعمل فيه بواسطة الإدمن",
+	"CurrentJobRouteVehicleColoursChanged": "تم تغيير ألوان السيارة لمسار وظيفتك بواسطة الإدمن",
+	"NotYourJob": "هذه ليست وظيفتك!",
+	"JobPoints": "يمكنك الحصول على وظيفة من خلال الذهاب إلى النقاط الصفراء على الخريطة.",
+	"QuitJobToTakeAnother": "إذا كنت تريد هذه الوظيفة ، فاستخدم {1} لإنهاء وظيفتك الحالية.",
+	"NotAJobVehicle": "هذه ليست وسيلة عمل!",
+	"NotYourJobVehicle": "هذه ليست مركبة عملك!",
+	"JobRouteDisabled": "تم تعطيل مسار العمل الذي كنت تسلكه بواسطة أحد الإداريين",
+	"HeaderPickupTypes": "أنواع الالتقاط",
+	"HeaderBlipTypes": "أنواع أيقونات الخريطة",
+	"InvalidGPSLocation": "لا توجد مواقع بهذا الاسم أو النوع",
+	"HeaderBusinessList": "الأعمال",
+	"VehicleForSale": "يمكن شراء {1} مقابل {2}! استخدم {3} إذا كنت ترغب في شرائه",
+	"VehicleForRent": "هذا {1} قابل للتأجير لـ {2}! استخدم {3} إذا كنت تريد استئجاره",
+
+	"ADDED-31JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
+	"LoginFailedInvalidPassword": "رمز مرور خاطئ! عدد المحاولات المتبقية: {1}",
+	"LoginFailedNoPassword": "يجب عليك إدخال كلمة المرور! ! عدد المحاولات المتبقية: {1}",
+	"RegistrationFailedNoPassword": "يجب عليك إدخال كلمة المرور!",
+	"RegistrationFailedNoPasswordConfirm": "يجب عليك تأكيد كلمة المرور!",
+	"RegistrationFailedNoEmail": "يجب إدخال البريد الإلكتروني!",
+	"AccountNameAlreadyRegistered": "تم تسجيل اسمك بالفعل!",
+	"AlreadyLoggedIn": "انت بالفعل بداخل!",
+	"RegistrationFailedInvalidEmail": "هذا البريد الإلكتروني غير صالح!",
+	"RegistrationFailedPasswordMismatch": "كلمات المرور غير متطابقة!",
+	"RegistrationFailedCreateError": "تعذر إنشاء حسابك!",
+	"RegistrationSuccess": "لقد تم إنشاء حسابك!",
+	"RegistrationEmailVerifyReminder": "لا تنس التحقق من بريدك الإلكتروني! تم إرسال رمز التحقق لك.",
+	"RegistrationCreateCharReminder": "للعب على الخادم ، ستحتاج إلى تكوين شخصية.",
+	"NoCharactersGUIMessage": "ليس لديك أحرف. هل ترغب في صنع واحدة؟",
+	"NoCharactersGUIWindowTitle": "لا أحرف",
+	"NoCharactersChatMessage": "ليس لديك أحرف. استخدم {1} لإنشاء واحدة.",
+	"NeedEmailFor2FA": "تحتاج إلى إضافة بريدك الإلكتروني إلى حسابك لاستخدام المصادقة ذات العاملين.",
+	"NeedEmailVerifiedFor2FA": "تحتاج إلى التحقق من بريدك الإلكتروني لاستخدام المصادقة ذات العاملين.",
+	"SetEmailHelpTip": "استخدم {1} لتعيين بريدك الإلكتروني.",
+	"VerifyEmailHelpTip": "استخدم {1} للتحقق من بريدك الإلكتروني.",
+
+	"ADDED-13FEB2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
+	"NearbyRadio": "راديو قريب",
+	"FromRadio": "من الراديو",
+	"ToRadio": "في الراديو",
+	"NeedToEnterPropertyCommand": "تحتاج إلى إدخال {1} أولاً! استخدم {2} للدخول والخروج",
+	"NeedToEnterPropertyKeyPress": "تحتاج إلى إدخال {1} أولاً! اضغط على {2} للدخول والخروج",
+	"InventoryFullCantCarry": "ليس لديك أي مساحة لحمل هذا (جرد كامل)!",
+	"NotEnoughCashNeedAmountMore": "ليس لديك ما يكفي من المال! أنت بحاجة إلى {1} أكثر!",
+	"AmountMustBeMoreThan": "يجب أن يكون المبلغ أكثر من {1}!",
+	"WeaponBanned": "لا يسمح لك بشراء أو استخدام الأسلحة!",
+	"TimeNotNumber": "يجب أن يكون الوقت رقمًا",
+	"HeaderDefaultBusinessItemTypes": "قوالب عناصر الأعمال",
+	"FixingStuck": "إصلاح موقعك والعالم الافتراضي ...",
+	"CantUseCommandYet": "يجب أن تنتظر قبل أن تتمكن من استخدام هذا الأمر مرة أخرى!",
+	"NotATester": "أنت لست مختبرا!",
+	"AccessDenied": "تم الرفض",
+	"InvalidSkin": "هذا الجلد غير صالح!",
+	"HeaderInteriorTypes": "قائمة التصميمات الداخلية",
+	"ViewInventoryKeyPressTip": "اضغط على {1} لرؤية العناصر الخاصة بك",
+	"ViewInventoryCommandTip": "استخدم {1} لمشاهدة عناصرك",
+	"GUIAccountSettingToggle": "لقد قمت بتحويل {1} GUI",
+
+	"ADDED-23MAR2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations",
+	"CarCommandHelp": "You can buy a car by visiting a vehicle dealership. Use {1} for more information.",
+	"SkinCommandHelp": "You can change your skin by visiting a clothes store. Use {1} for more info.",
+	"BusinessVehiclesRespawned": "All business vehicles have been respawned by an admin!",
+	"JobVehiclesRespawned": "All job vehicles have been respawned by an admin!",
+	"PlayerVehiclesRespawned": "All player vehicles have been respawned by an admin!",
+	"ClanVehiclesRespawned": "All clan vehicles have been respawned by an admin!",
+	"PublicVehiclesRespawned": "All public have been respawned by an admin!",
+	"EmptyVehiclesRespawned": "All empty vehicles have been respawned by an admin!",
+	"AllVehiclesRespawned": "All vehicles have been respawned by an admin!",
+	"AllVehiclesReloaded": "All vehicles have been reloaded by an admin!",
+	"YourVehicleRespawned": "Your vehicle has been respawned",
+	"PlayerIPBanned": "{1} has been IP banned!",
+	"PlayerCharacterBanned": "{1} has been character banned!",
+	"PlayerSubNetBanned": "{1} has been subnet banned!",
+	"CantModifyBusiness": "You can't manage or modify this business",
+	"CantModifyHouse": "You can't manage or modify this house",
+	"ServerTimeSet": "{1} set the time to {2}",
+	"ServerWeatherSet": "{1} set the weather to {2}",
+	"ServerSnowSet": "{1} turned falling snow {2} and ground snow {3}",
+	"AllJobsReloaded": "All server jobs have been reloaded by an admin",
+	"ServerLogoSet": "{1} turned the server logo image {2}",
+	"ServerGUISet": "{1} turned GUI for this server {2}",
+	"ServerBusinessBlipsSet": "{1} turned all business blips {2}",
+	"ServerHouseBlipsSet": "{1} turned all house blips {2}",
+	"ServerJobBlipsSet": "{1} turned all job blips {2}",
+	"ServerBusinessPickupsSet": "{1} turned all business pickups {2}",
+	"ServerHousePickupsSet": "{1} turned all house pickups {2}",
+	"ServerJobPickupsSet": "{1} turned on all job pickups {2}",
+	"BusinessBuyItemsLabel": "Use {1} to purchase items",
+	"PropertyEnterCommandLabel": "Use {1} to enter",
+	"PropertyEnterKeyPressLabel": "Press {1} to enter",
+	"PropertyForSaleLabel": "For sale: ${1}",
+	"PropertyForRentLabel": "For rent: ${1} every payday",
+	"RemainingTaxPaidInMoney": "You covered the remaining taxes with ${1} in cash.",
+	"LostMoneyFromTaxes": "You lost money since your taxes are more than your paycheck!",
+	"NextPaycheckRepossessionWarning": "If you don't have enough cash to cover taxes on next paycheck, you will lose stuff!",
+	"NotEnoughMoneyForTax": "You don't have enough money to cover your taxes!",
+	"AssetsRepossessedForTax": "You lost {1} vehicles, {2} houses, and {3} businesses because you couldn't pay taxes!",
+	"Closed": "Closed",
+	"Open": "Open",
+	"VehicleDealershipLabel": "Enter a vehicle as driver to buy it",
+	"TakeJobLabel": "Use {1} to work here",
+	"StartWorkLabel": "Use {1} to start working",
+	"JobEquipAndUniformLabel": "Use {1} and {2} for job stuff, or {3} to stop working",
+	"NotYourJobLabel": "You already have a different job. Use {1} if you want this one",
+	"JobLabel": "{1} Job",
+	"PaydayBonusSet": "{1} set the payday bonus to ${2}",
+	"AllHousesReloaded": "All houses have been reloaded by an admin",
+	"AllRadioStationsReloaded": "All radio stations have been reloaded by an admin!",
+	"PlayerKicked": "{1} has been kicked from the server",
+	"AllBusinessesReloaded": "All businesses have been reloaded by an admin!",
+	"UnableToDoThat": "You aren't able to do that",
+	"SetVehicleClanConfirmMessage": "Are you sure you want to give this vehicle to your clan?",
+	"SetVehicleClanConfirmTitle": "Warning!",
+	"SetItemPriceBelowOrderPriceMessage": "Are you sure you want to set the item price below it's order price? You will lose ${1} every purchase!",
+	"SetItemPriceBelowOrderPriceTitle": "Warning!",
+	"MustOwnVehicle": "You don't own this vehicle!",
+	"RandomTips": [
+		"Look for yellow dots on your map for job locations",
+		"You can set custom key binds. Use {1} for details",
+		"Use {1} if you don't want to see tips and extra information",
+		"You can edit your keybinds using {1} and {2}",
+		"Press ℹ️ to see your inventory, and use number keys to select an item",
+		"Use {1} at a business to purchase items",
+		"Found a bug? Report it with {1}",
+		"Have an idea or suggestion for the server? Let the devs know using {1}",
+		"Want to buy a business? Use {1} at one for sale",
+		"Want to buy a house? Use {1} at one for sale",
+		"Want to buy a vehicle? Visit a dealership and enter one for info on how to buy it!",
+		"Switch to any of your characters with {1}",
+		"Use {1} to automatically login when connecting with the same IP",
+		"Use {1} to turn on/off the lights in your house or business",
+		"Use {1} to play an internet radio station in your car, house, or business",
+		"Want to make a clan? Use {1} for details",
+		"Legal weapons can be purchased at any ammunation"
+	],
+	"PromptResponseTip": "Use {1} to accept or {2} to decline",
+	"PlayerConnecting": "👋 {1} is connecting to the server",
+    "GetStartedJobVehicle": "Get in a {1} to get started.",
+    "VehicleTypes": {
+        "Car": "Car",
+        "Truck": "Truck",
+        "Van": "Van",
+        "Taxi": "Taxi",
+        "Bus": "Bus",
+        "PoliceCar": "Police Car",
+        "Ambulance": "Ambulance",
+        "FireTruck": "Fire Truck",
+        "Bike": "Bike",
+        "Motorbike": "Motorbike",
+        "Boat": "Boat",
+        "Helicopter": "Helicopter",
+        "Plane": "Plane",
+        "Train": "Train"
+    },
+    "AlreadyOnJobRoute": "You are already doing a job route!",
+    "GaveVehicleToClan": "You gave this {1} to your clan!",
+    "JobDisabled": "This job is disabled!",
+    "SetHouseClanConfirmMessage": "Are you sure you want to give this house to your clan?",
+	"SetHouseClanConfirmTitle": "Warning!",
+    "SetBusinessClanConfirmMessage": "Are you sure you want to give this business to your clan?",
+	"SetBusinessClanConfirmTitle": "Warning!",
+    "MustOwnHouse": "You don't own this house!",
+    "MustOwnBusiness": "You don't own this business!",
+    "GaveHouseToClan": "You gave this house to your clan!",
+    "GaveBusinessToClan": "You gave this business to your clan!"
+}
