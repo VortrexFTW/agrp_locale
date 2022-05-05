@@ -511,5 +511,7 @@
         "Invalid Name",
         "Crashed",
         "Modified Game"
-    ]
+    ],
+    "AccountEmailAlreadyVerified": "You already set and verified your email!",
+    "EmailVerificationCodeSent": "A verification code and instructions have been sent to your email."
 }
