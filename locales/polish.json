@@ -186,19 +186,6 @@
     "MustBeVehicleDriver": "Musisz być kierowcą tego pojazdu!",
     "PlayerJoinedServer": "{1} dołączył do gry z {2}!",
     "PlayerLeftServer": "{1} wyszedł z gry! ({2})",
-    "DisconnectReasons": [
-        "Utracenie Połączenia",
-        "Odłączenie",
-        "Niewspierana Wersja",
-        "Nieprawidłowa Gra",
-        "Błędne Hasło",
-        "Niewspierany Plik Wykonalny",
-        "Odłączenie",
-        "Zbanowany",
-        "Nie udane",
-        "Nieprawidłowa Nazwa",
-        "Crashed"
-    ],
     "TakeItemFromHouse": "bierze {1} z mieszkania",
     "TakeItemFromBusinessStorage": "bierze {1} z magazynu biznesu",
     "TakeItemFromBusiness": "bierze {1} z biznesu",
@@ -509,5 +496,18 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+    "DisconnectReasons": [
+        "Utracenie Połączenia",
+        "Odłączenie",
+        "Niewspierana Wersja",
+        "Nieprawidłowa Gra",
+        "Błędne Hasło",
+        "Niewspierany Plik Wykonalny",
+        "Odłączenie",
+        "Zbanowany",
+        "Nie udane",
+        "Nieprawidłowa Nazwa",
+        "Modified Game"
+    ]
 }

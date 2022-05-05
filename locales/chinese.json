@@ -186,19 +186,6 @@
 	"MustBeVehicleDriver": "你并不是主驾驶！",
 	"PlayerJoinedServer": "{1} 加入游戏。来自：{2}",
 	"PlayerLeftServer": "{1} 退出游戏！ ({2})",
-	"DisconnectReasons": [
-		"失去连接",
-		"断开连接",
-		"不支持的客户端",
-		"游戏错误",
-		"密码错误",
-		"不支持的游戏主程序",
-		"断开连接",
-		"已被封禁",
-		"连接失败",
-		"无效的游戏名",
-		"客户端崩溃"
-	],
 	"TakeItemFromHouse": "从住宅处拿到 {1}",
 	"TakeItemFromBusinessStorage": "从企业仓库拿到 {1}",
 	"TakeItemFromBusiness": "从企业处拿到 {1}",
@@ -510,5 +497,19 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+	"DisconnectReasons": [
+		"失去连接",
+		"断开连接",
+		"不支持的客户端",
+		"游戏错误",
+		"密码错误",
+		"不支持的游戏主程序",
+		"断开连接",
+		"已被封禁",
+		"连接失败",
+		"无效的游戏名",
+		"客户端崩溃",
+		"Modified Game"
+	]
 }

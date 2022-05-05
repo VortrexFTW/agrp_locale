@@ -187,19 +187,6 @@
 	"MustBeVehicleDriver": "يجب أن تكون سائق السيارة!",
 	"PlayerJoinedServer": "انضم إلى اللعبة من {1}!",
 	"PlayerLeftServer": "غادر {1} اللعبة! ({2})",
-	"DisconnectReasons": [
-		"انقطع الإتصال",
-		"انقطع الاتصال",
-		"عميل غير مدعوم",
-		"تحذير للعبة",
-		"كلمة سر غير صحيحه",
-		"قابل للتنفيذ غير معتمد",
-		"انقطع الاتصال",
-		"حظر",
-		"فشل",
-		"اسم غير صالح",
-		"خطأ"
-	],
 	"TakeItemFromHouse": "يأخذ {1} من المنزل",
 	"TakeItemFromBusinessStorage": "يأخذ {1} من تخزين الشركة",
 	"TakeItemFromBusiness": "يأخذ {1} من الأعمال",
@@ -510,5 +497,19 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+	"DisconnectReasons": [
+		"انقطع الإتصال",
+		"انقطع الاتصال",
+		"عميل غير مدعوم",
+		"تحذير للعبة",
+		"كلمة سر غير صحيحه",
+		"قابل للتنفيذ غير معتمد",
+		"انقطع الاتصال",
+		"حظر",
+		"فشل",
+		"اسم غير صالح",
+		"خطأ",
+		"Modified Game"
+	]
 }

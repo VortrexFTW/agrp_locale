@@ -187,19 +187,6 @@
     "MustBeVehicleDriver": "Вы можете быть только водителем!",
     "PlayerJoinedServer": "{1} присоеденился к игре из {2}!",
     "PlayerLeftServer": "{1} покинул игру! ({2})",
-    "DisconnectReasons": [
-        "Потеряно соединение",
-        "Отключен",
-        "Неподерживаемый клинт",
-        "Неправильная игра",
-        "Неправильный пароль",
-        "Неподдерживаемый Exe",
-        "Disconnected",
-        "Забанен",
-        "Не удалось",
-        "Не правильное имя",
-        "Вылетел"
-    ],
     "TakeItemFromHouse": "Берет {1} из дома",
     "TakeItemFromBusinessStorage": "Берет {1} из хранилища",
     "TakeItemFromBusiness": "Берет {1} из бизнеса",
@@ -509,5 +496,19 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+    "DisconnectReasons": [
+        "Потеряно соединение",
+        "Отключен",
+        "Неподерживаемый клинт",
+        "Неправильная игра",
+        "Неправильный пароль",
+        "Неподдерживаемый Exe",
+        "Disconnected",
+        "Забанен",
+        "Не удалось",
+        "Не правильное имя",
+        "Вылетел",
+        "ModifiedGame"
+    ]
 }

@@ -193,19 +193,6 @@
     "MustBeVehicleDriver": "¡Debes ser el conductor del vehículo!",
     "PlayerJoinedServer": "¡{1} se unió al juego desde {2}!",
     "PlayerLeftServer": "¡{1} ha abandonado el juego! ({2})",
-    "DisconnectReasons": [
-        "Conexión perdida",
-        "Desconectado",
-        "Cliente no admitido",
-        "Juego incorrecto",
-        "Contraseña incorrecta",
-        "Ejecutable no admitidos",
-        "Desconectado",
-        "Vetado",
-        "Fallido",
-        "Nombre inválido",
-        "Fallo del programa"
-    ],
     "TakeItemFromHouse": "saca {1} de la casa",
     "TakeItemFromBusinessStorage": "saca {1} del almacén del negocio",
     "TakeItemFromBusiness": "saca {1} del negocio",
@@ -514,5 +501,19 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+    "DisconnectReasons": [
+        "Conexión perdida",
+        "Desconectado",
+        "Cliente no admitido",
+        "Juego incorrecto",
+        "Contraseña incorrecta",
+        "Ejecutable no admitidos",
+        "Desconectado",
+        "Vetado",
+        "Fallido",
+        "Nombre inválido",
+        "Fallo del programa",
+        "Modified Game"
+    ]
 }

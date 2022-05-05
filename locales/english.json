@@ -187,19 +187,6 @@
     "MustBeVehicleDriver": "You must be the driver of the vehicle!",
     "PlayerJoined": "{1} has joined the game from {2}!",
     "PlayerLeftServer": "{1} has left the game! ({2})",
-    "DisconnectReasons": [
-        "Lost Connection",
-        "Disconnected",
-        "Unsupported Client",
-        "Wrong Game",
-        "Incorrect Password",
-        "Unsupported Executable",
-        "Disconnected",
-        "Banned",
-        "Failed",
-        "Invalid Name",
-        "Crashed"
-    ],
     "TakeItemFromHouse": "takes a {1} from the house",
     "TakeItemFromBusinessStorage": "takes a {1} from the business storage",
     "TakeItemFromBusiness": "takes a {1} from the business",
@@ -510,5 +497,19 @@
     "BuyHouseConfirmTitle": "Attention!",
 	"BuyBusinessLabel": "Use {1} to buy this business",
 	"BuyHouseLabel": "Use {1} to buy this house",
-	"RentHouseLabel": "Use {1} to rent this house"
+	"RentHouseLabel": "Use {1} to rent this house",
+    "DisconnectReasons": [
+        "Lost Connection",
+        "Disconnected",
+        "Unsupported Client",
+        "Wrong Game",
+        "Incorrect Password",
+        "Unsupported Executable",
+        "Disconnected",
+        "Banned",
+        "Failed",
+        "Invalid Name",
+        "Crashed",
+        "Modified Game"
+    ]
 }
