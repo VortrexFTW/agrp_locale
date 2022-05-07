@@ -3,7 +3,7 @@
     "LocaleEnglishName": "French",
 
     "LocaleNativeName": "French (Translate this to your native language)",
-    "LocaleOffer": "This server is available in English. Use {1} to use it.",
+    "LocaleOffer": "This server is available in French. Use {1} to use it.",
     "LocaleChanged1": "Your language is now set to {1}",
     "LocaleChanged2": "The server will now display messages in {1}",
     "LocaleChangedNote": "This does not change messages from other players",
