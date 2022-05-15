@@ -535,6 +535,7 @@
     "GUINewCharacterMessageLabel": "Name your character",
     "GUINewCharacterFirstNamePlaceholder": "First Name",
     "GUINewCharacterLastNamePlaceholder": "Last Name",
+    "GUINewCharacterSubmitButton": "Create Character",
     "GUIChangePasswordWindowTitle": "Change Password",
     "GUIChangePasswordPasswordLabel": "Enter a new password",
     "GUIChangePasswordPasswordPlaceholder": "Password",
