@@ -8,7 +8,7 @@
     "LocaleChanged2": "Этот сервер теперь будет показывать сообщения в {1}",
     "LocaleChangedNote": "Это не влияет на сообщения других игроков",
     "AccentsListHeader": "Акценты",
-    "HeaderHelpMainList": "Помощь Категории",
+    "HelpMainListHeader": "Помощь Категории",
     "AccentNotFound": "Не удалось найти акцент",
     "AccentSet": "Вы установили свой акцент на {1}",
     "InvalidAnimation": "Такой анимации не существует",
@@ -544,5 +544,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }

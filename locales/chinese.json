@@ -7,7 +7,7 @@
 	"LocaleChanged2": "服务器现在将以 {1} 显示消息。",
 	"LocaleChangedNote": "这将不会影响到来自其他玩家的消息",
 	"AccentsListHeader": "口音",
-	"HeaderHelpMainList": "帮助类别",
+	"HelpMainListHeader": "帮助类别",
 	"AccentNotFound": "口音不存在",
 	"AccentSet": " 口音已设置为 {1}",
 	"InvalidAnimation": "该动作不存在",
@@ -545,5 +545,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }

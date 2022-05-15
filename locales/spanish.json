@@ -8,7 +8,7 @@
     "LocaleChanged2": "El servidor mostrará los mensajes en {1}",
     "LocaleChangedNote": "Esto no cambia los mensajes de otros jugadores",
     "AccentsListHeader": "Acentos",
-    "HelpListHeader": "Categorías de ayuda",
+    "HelpMainListHeader": "Categorías de ayuda",
     "HelpSkinHeader": "Ayuda de personajes",
     "HelpVehicleHeader": "Ayuda de vehículos",
     "HelpBusinessHeader": "Ayuda de negocios",
@@ -549,5 +549,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }

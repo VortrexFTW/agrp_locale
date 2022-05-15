@@ -8,7 +8,7 @@
 	"LocaleChanged2": "سيعرض الخادم الآن الرسائل في {1}",
 	"LocaleChangedNote": "هذا لا يغير الرسائل من اللاعبين الآخرين",
 	"AccentsListHeader": "لهجآت",
-	"HeaderHelpMainList": "فئة الدعم",
+	"HelpMainListHeader": "فئة الدعم",
 	"AccentNotFound": "اللكنة الحالية غير متوفرة",
 	"AccentSet": "قمت بتعيين لهجتك على {1}",
 	"InvalidAnimation": "هذه الرسوم المتحركة غير متوفرة",
@@ -545,5 +545,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }

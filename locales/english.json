@@ -8,7 +8,7 @@
     "LocaleChanged2": "The server will now display messages in {1}",
     "LocaleChangedNote": "This does not change messages from other players",
     "AccentsListHeader": "Accents",
-    "HeaderHelpMainList": "Help Categories",
+    "HelpMainListHeader": "Help Categories",
     "AccentNotFound": "Accent not found",
     "AccentSet": "You set your accent to {1}",
     "InvalidAnimation": "That animation doesn't exist",
@@ -545,5 +545,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }

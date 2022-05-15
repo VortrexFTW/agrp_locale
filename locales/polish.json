@@ -7,7 +7,7 @@
     "LocaleChanged2": "Serwer będzie teraz pokazywał wiadomości w języku {1}",
     "LocaleChangedNote": "To nie zmienia wiadomości od innych graczy",
     "AccentsListHeader": "Akcenty",
-    "HeaderHelpMainList": "Pomoc - Kategorie",
+    "HelpMainListHeader": "Pomoc - Kategorie",
     "AccentNotFound": "Akcent nie znaleziony",
     "AccentSet": "Ustawiłeś swój akcent na {1}",
     "InvalidAnimation": "Ta animcja nie istnieje",
@@ -543,5 +543,9 @@
     "GUIResetPasswordEmailPlaceholder": "Email",
     "GUIResetPasswordSubmitButton": "Reset Password",
     "GUIResetPasswordLoginButton": "Login",
-    "GUIResetPasswordRememberMessage": "Remember your password?"
+    "GUIResetPasswordRememberMessage": "Remember your password?",
+    "HeaderJobList": "Jobs",
+    "HeaderBusinessInfo": "Business Info",
+    "HeaderHouseInfo": "House Info",
+    "HeaderClanInfo": "Clan Info"
 }
