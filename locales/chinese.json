@@ -298,15 +298,6 @@
 	"VehiclePurchaseNotEnoughMoney": "你没有足够的钱买这辆车！",
 	"HousePurchaseNotEnoughMoney": "你没有足够的钱买这所房子！",
 	"BusinessPurchaseNotEnoughMoney": "你没有足够的钱来买这家企业！",
-	"Locales": {
-		"English": "英文",
-		"Russian": "俄文",
-		"Spanish": "西班牙文",
-		"German": "德文",
-		"Dutch": "荷兰文",
-		"Polish": "波兰文",
-		"Chinese": "中文"
-	},
 
 	"ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
 	"HeaderPlayerHousesList": "玩家住宅 ({1})",
@@ -550,5 +541,18 @@
     "HeaderJobList": "Jobs",
     "HeaderBusinessInfo": "Business Info",
     "HeaderHouseInfo": "House Info",
-    "HeaderClanInfo": "Clan Info"
+    "HeaderClanInfo": "Clan Info",
+	"Locales": {
+		"English": "英文",
+		"Russian": "俄文",
+		"Spanish": "西班牙文",
+		"German": "德文",
+		"Dutch": "荷兰文",
+		"Polish": "波兰文",
+		"Chinese": "中文",
+		"French": "French",
+		"Japanese": "Japanese",
+		"Slovak": "Slovak",
+		"Arabic": "Arabic"
+	}
 }

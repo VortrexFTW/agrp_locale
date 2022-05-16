@@ -298,14 +298,6 @@
     "VehiclePurchaseNotEnoughMoney": "Nie masz wystarczająco dużo funduszy aby kupić to auto!",
     "HousePurchaseNotEnoughMoney": "Nie masz wystarczająco dużo funduszy aby kupić to mieszkanie!",
     "BusinessPurchaseNotEnoughMoney": "Nie masz wystarczająco dużo funduszy aby kupić ten biznes!",
-    "Locales": {
-        "English": "Angielski",
-        "Russian": "Rosyjski",
-        "Spanish": "Hiszpański",
-        "German": "Niemiecki",
-        "Dutch": "Holenderski",
-        "Polish": "Polski"
-    },
 
     "ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
     "HeaderPlayerHousesList": "Mieszkania Gracza ({1})",
@@ -548,5 +540,18 @@
     "HeaderJobList": "Jobs",
     "HeaderBusinessInfo": "Business Info",
     "HeaderHouseInfo": "House Info",
-    "HeaderClanInfo": "Clan Info"
+    "HeaderClanInfo": "Clan Info",
+    "Locales": {
+        "English": "Angielski",
+        "Russian": "Rosyjski",
+        "Spanish": "Hiszpański",
+        "German": "Niemiecki",
+        "Dutch": "Holenderski",
+        "Polish": "Polski",
+        "Chinese": "Chinese",
+        "French": "French",
+        "Japanese": "Japanese",
+        "Slovak": "Slovak",
+        "Arabic": "Arabic"
+    }
 }

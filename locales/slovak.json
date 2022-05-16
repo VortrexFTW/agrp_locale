@@ -299,14 +299,6 @@
     "VehiclePurchaseNotEnoughMoney": "You don't have enough money to buy this vehicle!",
     "HousePurchaseNotEnoughMoney": "You don't have enough money to buy this house!",
     "BusinessPurchaseNotEnoughMoney": "You don't have enough money to buy this business!",
-    "Locales": {
-        "English": "English",
-        "Russian": "Russian",
-        "Spanish": "Spanish",
-        "German": "German",
-        "Dutch": "Dutch",
-        "Polish": "Polish"
-    },
 
     "ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
     "HeaderPlayerHousesList": "Player Houses ({1})",
@@ -550,5 +542,18 @@
     "HeaderJobList": "Jobs",
     "HeaderBusinessInfo": "Business Info",
     "HeaderHouseInfo": "House Info",
-    "HeaderClanInfo": "Clan Info"
+    "HeaderClanInfo": "Clan Info",
+    "Locales": {
+        "English": "English",
+        "Russian": "Russian",
+        "Spanish": "Spanish",
+        "German": "German",
+        "Dutch": "Dutch",
+        "Polish": "Polish",
+        "Chinese": "Chinese",
+        "French": "French",
+        "Japanese": "Japanese",
+        "Slovak": "Slovak",
+        "Arabic": "Arabic"
+    }
 }

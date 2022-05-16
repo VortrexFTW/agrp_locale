@@ -299,13 +299,6 @@
     "VehiclePurchaseNotEnoughMoney": "у вас недостаточно денег для покупки этого транспорта!",
     "HousePurchaseNotEnoughMoney": "У вас недостаточно денег для покупки этого дома!",
     "BusinessPurchaseNotEnoughMoney": "У вас недостаточно денег для покупки этого бизнеса!",
-    "Locales": {
-        "English": "Английский",
-        "Russian": "Русский",
-        "Spanish": "Испанский",
-        "German": "Немецкий",
-        "Dutch": "Нидерландский"
-    },
 
     "ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
     "HeaderPlayerHousesList": "Дома Игрока ({1})",
@@ -549,5 +542,18 @@
     "HeaderJobList": "Jobs",
     "HeaderBusinessInfo": "Business Info",
     "HeaderHouseInfo": "House Info",
-    "HeaderClanInfo": "Clan Info"
+    "HeaderClanInfo": "Clan Info",
+    "Locales": {
+        "English": "Английский",
+        "Russian": "Русский",
+        "Spanish": "Испанский",
+        "German": "Немецкий",
+        "Dutch": "Нидерландский",
+        "Polish": "Polish",
+        "Chinese": "Chinese",
+        "French": "French",
+        "Japanese": "Japanese",
+        "Slovak": "Slovak",
+        "Arabic": "Arabic"
+    }
 }
