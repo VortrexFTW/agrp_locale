@@ -305,14 +305,8 @@
     "VehiclePurchaseNotEnoughMoney": "No tienes suficiente dinero para comprar este vehículo",
     "HousePurchaseNotEnoughMoney": "No tienes suficiente dinero para comprar esta casa",
     "BusinessPurchaseNotEnoughMoney": "No tienes suficiente dinero para comprar este negocio",
-    "Locales": {
-        "English": "Inglés",
-        "Russian": "Ruso",
-        "Spanish": "Español",
-        "German": "Alemán",
-        "Dutch": "Holandés",
-        "Polish": "Polaco"
-    },
+
+    "ADDED-21JAN2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations.",
     "HeaderPlayerHousesList": "Casas del jugador ({1})",
     "HeaderPlayerStaffFlagsList": "Banderas administrativas del jugador ({1})",
     "HeaderStaffFlagsList": "Banderas administrativas",
@@ -554,5 +548,18 @@
     "HeaderJobList": "Jobs",
     "HeaderBusinessInfo": "Business Info",
     "HeaderHouseInfo": "House Info",
-    "HeaderClanInfo": "Clan Info"
+    "HeaderClanInfo": "Clan Info",
+    "Locales": {
+        "English": "Inglés",
+        "Russian": "Ruso",
+        "Spanish": "Español",
+        "German": "Alemán",
+        "Dutch": "Holandés",
+        "Polish": "Polaco",
+        "Chinese": "Chinese",
+        "French": "French",
+        "Japanese": "Japanese",
+        "Slovak": "Slovak",
+        "Arabic": "Arabic"
+    }
 }
