@@ -516,7 +516,7 @@
     "GUICharacterSelectLastPlayedLabel": "Last Played: {1} days, {2} hours, {3} minutes ago",
     "GUILoginWindowLabelEnterPassword": "Please enter your password",
     "GUILoginWindowSubmitButton": "Login",
-    "GUILoginWindowResetPasswordButton": "Reset password",
+    "GUILoginWindowResetPasswordButton": "Reset",
     "GUILoginWindowPasswordPlaceholder": "Password",
     "GUILoginWindowForgotPasswordLabel": "Forgot your password?",
     "GUIRegisterWindowLabelCreateAccount": "Create an account",

@@ -522,7 +522,7 @@
     "GUICharacterSelectLastPlayedLabel": "Última vez que se jugó: Hace {1} días, {2} horas, {3} minutos",
     "GUILoginWindowLabelEnterPassword": "Por favor, introduzca su contraseña",
     "GUILoginWindowSubmitButton": "Iniciar sesión",
-    "GUILoginWindowResetPasswordButton": "Restablecer contraseña",
+    "GUILoginWindowResetPasswordButton": "Restablecer",
     "GUILoginWindowPasswordPlaceholder": "Contraseña",
     "GUILoginWindowForgotPasswordLabel": "¿Olvidaste tu contraseña?",
     "GUIRegisterWindowLabelCreateAccount": "Crear una cuenta",
