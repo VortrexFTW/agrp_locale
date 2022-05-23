@@ -3,7 +3,7 @@
 // https://github.com/VortrexFTW/agrp_locale
 // Copyright (C) 2022 by Asshat Gaming (GTAC-RP Division)
 // ===========================================================================
-// FILE: server.js
+// FILE: client.js
 // DESC: Provides locale functions and usage
 // TYPE: Client (JavaScript)
 // ===========================================================================
@@ -20,8 +20,8 @@ let locales = {};
 bindEventHandler("OnResourceStart", thisResource, function(event, resource) {
 	localeStrings = loadLocaleStrings();
 
-	exportFunction("getRawLocaleString", getLocaleString);
-	exportFunction("getRawGroupedLocaleString", getGroupedLocaleString);
+	exportFunction("getRawLocaleString", getRawLocaleString);
+	exportFunction("getRawGroupedLocaleString", getRawGroupedLocaleString);
 });
 
 // ===========================================================================
