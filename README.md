@@ -1,4 +1,4 @@
-# ag_locale
+# agrp_locale
 Translations for Asshat Gaming's GTACRP servers
 
 ## Want to provide a translation?
