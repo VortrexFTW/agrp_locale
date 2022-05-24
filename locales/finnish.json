@@ -580,5 +580,6 @@
     "HeaderClanRanksList": "Clan Rank",
     "HeaderNPCInfo": "NPC Info",
     "NPCAnimationSet": "You set NPC {1} animation to {2}",
-    "NPCNameSet": "You set NPC {1} name to {2}"
+    "NPCNameSet": "You set NPC {1} name to {2}",
+    "VehicleRepairTooFar": "You are too far away from the vehicle!"
 }
