@@ -581,5 +581,8 @@
     "NPCAnimationSet": "Ustawiłeś animacje NPC {1} na animacje {2}",
     "NPCNameSet": "Ustawiłeś nazwę NPC {1} na {2}",
     "VehicleRepairTooFar": "Jesteś za daleko od pojazdu!",
-    "HeaderPropertyTemplateTypes": "Property Types"
+    "HeaderPropertyTemplateTypes": "Property Types",
+    "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
+    "MutedCantChat": "You are muted and can't chat!",
+    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!"
 }
