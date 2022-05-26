@@ -88,7 +88,6 @@
 	"HeaderPlayerBusinessesList": "玩家企业 ({1})",
 	"HeaderClansList": "帮派列表",
 	"HeaderAdminsList": "管理员列表",
-	"HeaderBadgeInfo": "荣誉信息",
 	"HeaderAccentsList": "口音列表",
 	"HeaderPlayerInfo": "玩家信息 ({1})",
 	"HeaderWealthandTaxHelp": "资产与税收帮助",
@@ -585,5 +584,7 @@
     "HeaderPropertyTemplateTypes": "Property Types",
     "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
     "MutedCantChat": "You are muted and can't chat!",
-    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!"
+    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
+    "HeaderAnimationHelp": "Animation Info",
+    "HeaderBadgeInfo": "Badge Information ({1})"
 }

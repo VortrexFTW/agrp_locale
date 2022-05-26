@@ -89,7 +89,6 @@
     "HeaderPlayerBusinessesList": "pelaajan bisnekset ({1})",
     "HeaderClansList": "Claani Lista",
     "HeaderAdminsList": "Admini Lista",
-    "HeaderBadgeInfo": "merkki Informaatio",
     "HeaderAccentsList": "Aksentti Lista",
     "HeaderPlayerInfo": "Pelaajan Informaatio ({1})",
     "HeaderWealthandTaxHelp": "varallisuus and verot Informaatio",
@@ -116,7 +115,7 @@
     "HeaderItemItemList": "{1}'s Inventoori",
     "ItemSlotNotNumber": "Tuotepaikan on oltava numero",
     "ItemSlotMustBeBetween": "Tuotepaikan tulee olla välillä {1} ja {2}!",
-    "UseItemBugged": "Kohde, jota yrität käyttää, on viallinen. Virheraportti on lähetetty palvelimen kehittäjille.",
+    "UseItemBug": "Kohde, jota yrität käyttää, on viallinen. Virheraportti on lähetetty palvelimen kehittäjille.",
     "PickupItemBugged": "Tuote, jota yrität ottaa, on viallinen. Virheraportti on lähetetty palvelimen kehittäjille.",
     "DropItemBugged": "Kohde, jonka yrität pudottaa, on viallinen. Virheraportti on lähetetty palvelimen kehittäjille.",
     "HandsBusy": "kätesi ovat vararru",
@@ -585,5 +584,7 @@
     "HeaderPropertyTemplateTypes": "Property Types",
     "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
     "MutedCantChat": "You are muted and can't chat!",
-    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!"
+    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
+    "HeaderAnimationHelp": "Animation Info",
+    "HeaderBadgeInfo": "Badge Information ({1})"
 }

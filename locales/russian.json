@@ -89,7 +89,6 @@
     "HeaderPlayerBusinessesList": "Бизнес Игрока ({1})",
     "HeaderClansList": "Список кланов",
     "HeaderAdminsList": "Список администраторов",
-    "HeaderBadgeInfo": "Информация значка",
     "HeaderAccentsList": "Список акцентов",
     "HeaderPlayerInfo": "Информация об игроке ({1})",
     "HeaderWealthandTaxHelp": "Информация о достатке и налогах",
@@ -586,5 +585,7 @@
     "HeaderPropertyTemplateTypes": "Property Types",
     "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
     "MutedCantChat": "You are muted and can't chat!",
-    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!"
+    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
+    "HeaderAnimationHelp": "Animation Info",
+    "HeaderBadgeInfo": "Badge Information ({1})"
 }

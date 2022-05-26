@@ -95,7 +95,6 @@
     "HeaderPlayerBusinessesList": "Negocios del jugador ({1})",
     "HeaderClansList": "Lista de clanes",
     "HeaderAdminsList": "Lista de administradores",
-    "HeaderBadgeInfo": "Información de la placa",
     "HeaderAccentsList": "Lista de acentos",
     "HeaderPlayerInfo": "Información del jugador ({1})",
     "HeaderWealthandTaxHelp": "Información sobre el patrimonio y los impuestos",
@@ -592,5 +591,7 @@
     "HeaderPropertyTemplateTypes": "Property Types",
     "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
     "MutedCantChat": "You are muted and can't chat!",
-    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!"
+    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
+    "HeaderAnimationHelp": "Animation Info",
+    "HeaderBadgeInfo": "Badge Information ({1})"
 }
