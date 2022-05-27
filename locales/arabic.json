@@ -582,10 +582,10 @@
     "NPCAnimationSet": "تم تحديد الشخصية {1} على {2}",
     "NPCNameSet": "قمت بتعيين اسم الشخصية {1} على {2}",
     "VehicleRepairTooFar": "أنت بعيد جدًا عن السيارة!",
-    "HeaderPropertyTemplateTypes": "Property Types",
-    "MustBeLoggedInAndSpawnedToChat": "You need to be logged in and spawned before you can chat!",
-    "MutedCantChat": "You are muted and can't chat!",
-    "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
-    "HeaderAnimationHelp": "Animation Info",
-    "HeaderBadgeInfo": "Badge Information ({1})"
+    "HeaderPropertyTemplateTypes": "أنواع العقارات",
+    "MustBeLoggedInAndSpawnedToChat": "تحتاج إلى تسجيل الدخول ونشرها قبل أن تتمكن من الدردشة!",
+    "MutedCantChat": "تم إعطاءك ميوت ولا يمكنك الدردشة!",
+    "CantUseMegaphone": "يجب عليك تجهيز عنصر مكبر الصوت أو أن تكون في سيارة طوارئ!",
+    "HeaderAnimationHelp": "معلومات الرسوم المتحركة",
+    "HeaderBadgeInfo": "معلومات الشارة ({1})"
 }
