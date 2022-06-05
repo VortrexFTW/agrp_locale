@@ -585,5 +585,19 @@
     "MutedCantChat": "You are muted and can't chat!",
     "CantUseMegaphone": "You must equip a megaphone item or be in an emergency vehicle!",
     "HeaderAnimationHelp": "Animation Info",
-    "HeaderBadgeInfo": "Badge Information ({1})"
+    "HeaderBadgeInfo": "Badge Information ({1})",
+    "NoItemCloseEnough": "There is no item close enough",
+    "CantDropJobEquipmentItem": "You can't drop job items",
+    "CantPutJobEquipmentItem": "You can't store job items",
+    "NoItemEquipped": "You don't have any item selected",
+    "NoItemInActiveSlot": "You don't have an item in your active item slot",
+    "CantPutItemInSkinChange": "You can't store an item while customizing your appearance",
+    "NothingToTakeItemFrom": "You aren't near anything to take items from",
+    "NoAmmoToLoadIntoWeapon": "You don't have any ammo to load into the {1}",
+    "LoadAmmoIntoWeaponHelpCommand": "To load this ammo into a weapon, equip the weapon and type {1}",
+    "LoadAmmoIntoWeaponHelpKeyPress": "To load this ammo into a weapon, equip the weapon and press {1}",
+    "NobodyCloseEnoughToHandcuff": "Nobody is close enough to handcuff",
+    "NobodyCloseEnoughToTie": "Nobody is close enough to tie up",
+    "PlayerNotSurrenderedHandcuff": "{1} can't be handcuffed! They either need to have their hands up, be knocked out, or tazed",
+    "PlayerNotSurrenderedTie": "{1} can't be tied! They either need to have their hands up, be knocked out, or tazed"
 }
