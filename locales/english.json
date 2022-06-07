@@ -602,5 +602,8 @@
     "NobodyCloseEnoughToHandcuff": "Nobody is close enough to handcuff",
     "NobodyCloseEnoughToTie": "Nobody is close enough to tie up",
     "PlayerNotSurrenderedHandcuff": "{1} can't be handcuffed! They either need to have their hands up, be knocked out, or tazed",
-    "PlayerNotSurrenderedTie": "{1} can't be tied! They either need to have their hands up, be knocked out, or tazed"
+    "PlayerNotSurrenderedTie": "{1} can't be tied! They either need to have their hands up, be knocked out, or tazed",
+    "HeaderCharactersListSelf": "Your Characters",
+    "HeaderCharactersListOther": "{1}'s Characters",
+    "CharacterSelectHelpText": "Use {1} to select a character, or {2} to create a new character"
 }
