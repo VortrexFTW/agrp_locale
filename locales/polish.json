@@ -610,5 +610,6 @@
     "VehicleLockedCantUnlock": "🔒 This {1} is locked and you don't have the keys to unlock it",
     "CurrentlyRentingThisVehicle": "You are renting this {1} for {2} per minute. Use {3} if you want to stop renting it.",
     "VehicleBelongsTo": "This {1} belongs to {2} ({3})",
-    "NotOwned": "Not Owned"
+    "NotOwned": "Not Owned",
+    "NotCloseEnoughToItemContainer": "You are not close enough to anything that holds items"
 }
