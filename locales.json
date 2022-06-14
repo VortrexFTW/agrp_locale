@@ -1,0 +1,117 @@
+{
+    "apiEmail": "example@example.com",
+    "defaultLanguageId": 0,
+	"translateURL": "http://api.mymemory.translated.net/get?de={3}&q={0}&langpair={1}|{2}",
+    "locales": [
+        {
+			"id": 0,
+			"englishName": "English",
+			"stringsFile": "english.json",
+			"isoCode": "en",
+			"flagImageFile": "uk.png",
+			"countries": ["gb", "us", "au", "bz", "ca", "ie", "jm", "nz", "za", "tt"],
+			"requiresUnicode": false,
+			"contributor": "Vortrex"
+		},
+        {
+			"id": 1,
+			"englishName": "Russian",
+			"stringsFile": "russian.json",
+			"isoCode": "ru",
+			"flagImageFile": "ru.png",
+			"countries": ["ru", "ua"],
+			"requiresUnicode": false,
+			"contributor": "VNDTTS"
+		},
+		{
+			"id": 2,
+			"englishName": "Polish",
+			"stringsFile": "polish.json",
+			"isoCode": "pl",
+			"flagImageFile": "pl.png",
+			"countries": ["pl"],
+			"requiresUnicode": false,
+			"contributor": "Suprise444"
+		},
+		{
+			"id": 3,
+			"englishName": "Spanish",
+			"stringsFile": "spanish.json",
+			"isoCode": "es",
+			"flagImageFile": "es.png",
+			"countries": ["es", "ar", "bo", "cl", "co", "cr", "do", "ec", "sv", "gt", "hn", "mx", "ni", "pa", "py", "pe", "pr", "uy", "ve"],
+			"requiresUnicode": false,
+			"contributor": "PerikiyoXD"
+		},
+		{
+			"id": 4,
+			"englishName": "Chinese",
+			"stringsFile": "chinese.json",
+			"isoCode": "zh",
+			"flagImageFile": "cn.png",
+			"countries": ["cn", "hk", "sg", "tw"],
+			"requiresUnicode": true,
+			"contributor": "Renzuko_Ctone"
+		},
+		{
+			"id": 5,
+			"englishName": "Arabic",
+			"stringsFile": "arabic.json",
+			"isoCode": "ar",
+			"flagImageFile": "sa.png",
+			"countries": ["dz", "bh", "eg",	"iq", "jo", "kw", "lb", "ly", "ma", "om", "qa", "sa", "sy", "tn", "ae", "ye"],
+			"requiresUnicode": true,
+			"contributor": "! KASIR"
+		},
+		{
+			"id": 6,
+			"englishName": "Slovak",
+			"stringsFile": "slovak.json",
+			"isoCode": "sk",
+			"flagImageFile": "sk.png",
+			"countries": ["sk"],
+			"requiresUnicode": false,
+			"contributor": "UAKLAUS"
+		},
+		{
+			"id": 7,
+			"englishName": "German",
+			"stringsFile": "german.json",
+			"isoCode": "de",
+			"flagImageFile": "de.png",
+			"countries": ["de", "at", "be", "ch", "li", "lu"],
+			"requiresUnicode": false,
+			"contributor": "Sladernimo"
+		},
+		{
+			"id": 8,
+			"englishName": "French",
+			"stringsFile": "french.json",
+			"isoCode": "fr",
+			"flagImageFile": "fr.png",
+			"countries": ["fr", "cd", "bj", "bf", "cd", "cg", "ga", "gn", "ml", "mc", "ne", "sn"],
+			"requiresUnicode": false,
+			"contributor": "Cocam"
+		},
+		{
+			"id": 9,
+			"englishName": "Japanese",
+			"stringsFile": "japanese.json",
+			"isoCode": "jp",
+			"flagImageFile": "jp.png",
+			"countries": ["jp"],
+			"requiresUnicode": true,
+			"contributor": "Cocam"
+		},
+		{
+			"id": 10,
+			"englishName": "Finnish",
+			"stringsFile": "finnish.json",
+			"isoCode": "fi",
+			"flagImageFile": "fi.png",
+			"countries": ["fi"],
+			"requiresUnicode": false,
+			"contributor": "SIMBA_MEOW"
+		}
+    ]
+}
