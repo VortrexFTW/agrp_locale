@@ -605,5 +605,13 @@
     "PlayerNotSurrenderedTie": "{1} can't be tied! They either need to have their hands up, be knocked out, or tazed",
     "HeaderCharactersListSelf": "Your Characters",
     "HeaderCharactersListOther": "{1}'s Characters",
-    "CharacterSelectHelpText": "Use {1} to select a character, or {2} to create a new character"
+    "CharacterSelectHelpText": "Use {1} to select a character, or {2} to create a new character",
+    "ItemDoesntDoAnythingOnUse": "The {1} doesn't do anything when you try to use it.",
+    "ItemRadioStationTip": "Use {1} to set the radio station",
+    "VehicleLockedCommandTip": "🔒 This {1} is locked. Use {2} to unlock it",
+    "VehicleLockedKeyPressTip": "🔒 This {1} is locked. Press {2} to unlock it",
+    "VehicleLockedCantUnlock": "🔒 This {1} is locked and you don't have the keys to unlock it",
+    "CurrentlyRentingThisVehicle": "You are renting this {1} for {2} per minute. Use {3} if you want to stop renting it.",
+    "VehicleBelongsTo": "This {1} belongs to {2} ({3})",
+    "NotOwned": "Not Owned"
 }
