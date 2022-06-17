@@ -622,5 +622,6 @@
     "ItemsStoredForPaintBall": "Your items are stored in your locker and will be returned when you leave the paintball game",
     "LeftPaintBall": "You have left the paintball game. Your items have been returned.",
     "PaintBallEnded": "The paintball match has ended. Your items have been returned.",
-    "HeaderEventWinners": "Winners"
+    "HeaderEventWinners": "Winners",
+    "YourPaintBallResults": "You got {1} kills and {2} deaths in the paintball match"
 }
