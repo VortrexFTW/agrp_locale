@@ -612,5 +612,14 @@
     "CurrentlyRentingThisVehicle": "You are renting this {1} for {2} per minute. Use {3} if you want to stop renting it.",
     "VehicleBelongsTo": "This {1} belongs to {2} ({3})",
     "NotOwned": "Not Owned",
-    "NotCloseEnoughToItemContainer": "You are not close enough to anything that holds items"
+    "NotCloseEnoughToItemContainer": "You are not close enough to anything that holds items",
+    "Job": "Job",
+    "Player": "Player",
+    "BusinessIsNowPaintBall": "This business is now a paintball arena",
+    "JoinedPaintBall": "You have joined the paintball game.",
+    "LeavePaintBallTip": "Exit the business to leave the paintball game",
+    "ItemsStoredForPaintBall": "Your items are stored in your locker and will be returned when you leave the paintball game",
+    "LeftPaintBall": "You have left the paintball game. Your items have been returned.",
+    "PaintBallEnded": "The paintball match has ended. Your items have been returned.",
+    "HeaderEventWinners": "Winners"
 }
