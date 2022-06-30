@@ -627,5 +627,6 @@
     "YourPaintBallResults": "You got {1} kills and {2} deaths in the paintball match",
     "NoPrivateMessageToReply": "You haven't received a private message to reply to",
     "PrivateMessageReplyCommandTip": "Use {1} to quickly reply to the private message",
-    "WeaponDoesNotUseAmmo": "The {1} doesn't use ammo"
+    "WeaponDoesNotUseAmmo": "The {1} doesn't use ammo",
+    "ChatBoxTimestampsToggle": "You turned {1} time display in the chatbox"
 }
