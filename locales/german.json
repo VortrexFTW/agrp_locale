@@ -627,8 +627,14 @@
     "PrivateMessageReplyCommandTip": "Use {1} to quickly reply to the private message",
     "WeaponDoesNotUseAmmo": "The {1} doesn't use ammo",
     "ChatBoxTimestampsToggle": "You turned {1} time display in the chatbox",
-    "HideBloodSet": "You turned blood {1}",
     "ProfanityFilterSet": "You turned chat profanity filter {1}",
     "ResetAllKeyBindsConfirm": "Are you sure you want to reset all your keybinds to default?",
+    "NotRentingAVehicle": "You are not renting a vehicle!",
+    "StoppedRentingVehicle": "You stopped renting the {1}",
+    "VehicleEngineStartKeyPressTip": "The {1} engine is off. Press {2} to start it.",
+    "VehicleEngineStartCommandTip": "The {1} engine is off. Use {2} to start it.",
+    "StartedRentingVehicle": "You are now renting this {1} for {1} per minute. To stop renting, use {2}",
+    "VehicleAlreadyRentedByOther": "This vehicle is already rented by someone else",
+    "VehicleAlreadyRentedBySelf": "You are already renting this vehicle",
     "JobRankTooLow": "You are not high enough rank!"
 }

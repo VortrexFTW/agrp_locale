@@ -629,7 +629,6 @@
     "PrivateMessageReplyCommandTip": "Use {1} to quickly reply to the private message",
     "WeaponDoesNotUseAmmo": "The {1} doesn't use ammo",
     "ChatBoxTimestampsToggle": "You turned {1} time display in the chatbox",
-    "HideBloodSet": "You turned blood {1}",
     "ProfanityFilterSet": "You turned chat profanity filter {1}",
     "ResetAllKeyBindsConfirm": "Are you sure you want to reset all your keybinds to default?",
     "NotRentingAVehicle": "You are not renting a vehicle!",
