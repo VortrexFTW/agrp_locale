@@ -637,5 +637,20 @@
     "StartedRentingVehicle": "You are now renting this {1} for {1} per minute. To stop renting, use {2}",
     "VehicleAlreadyRentedByOther": "This vehicle is already rented by someone else",
     "VehicleAlreadyRentedBySelf": "You are already renting this vehicle",
-    "JobRankTooLow": "You are not high enough rank!"
+    "JobRankTooLow": "You are not high enough rank!",
+    "InvalidKeyName": "The key ID or name you input is invalid!",
+    "KeyBindsReset": "All your keybinds have been reset to default",
+    "KeyBindNameTip": "Use simple key names, letters, or numbers. Don't add spaces.",
+    "UniversalInlineExamplesList": "Examples: {1}",
+    "KeyBindRemoved": "You removed the keybind for the {1} key",
+    "KeyBindAdded": "You binded key {1} to {2}",
+    "CopyAllKeyBindsToServerConfirm": "Are you sure you want to copy all your keybinds to the {1} server?",
+    "CopiedAllKeyBindsToServer": "All your keybinds have been copied to the {1} server",
+    "MustBeSpawned": "You must be spawned!",
+    "ChatEmojiSet": "You turned automatic emoji in chat {1}",
+    "FishingLineNotCast": "Your fishing line isn't cast!",
+    "CantFishHere": "You can't fish here! You need to be near water or on a boat!",
+    "NeedFishingRod": "You need to be holding a fishing rod!",
+    "FishingCastCommandHelp": "Use {1} to cast your fishing line",
+    "FishingCastKeyBindHelp": "Press {1} to cast your fishing line"
 }
