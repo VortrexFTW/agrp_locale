@@ -655,5 +655,6 @@
     "FishingCastCommandHelp": "Use {1} to cast your fishing line",
     "FishingCastKeyBindHelp": "Press {1} to cast your fishing line",
     "Paused": "Paused",
-    "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!"
+    "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!",
+    "HeaderClanFlagsList": "Clan Flags"
 }

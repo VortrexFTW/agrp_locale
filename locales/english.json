@@ -578,7 +578,7 @@
     "GUIOkButton": "Ok",
     "GUIErrorResetPasswordFailedInvalidEmail": "Invalid email!",
     "HeaderVehicleInfo": "Vehicle Info",
-    "HeaderClanRanksList": "Clan Rank",
+    "HeaderClanRanksList": "Clan Ranks ({1})",
     "HeaderNPCInfo": "NPC Info",
     "NPCAnimationSet": "You set NPC {1} animation to {2}",
     "NPCNameSet": "You set NPC {1} name to {2}",
@@ -655,5 +655,6 @@
     "FishingCastCommandHelp": "Use {1} to cast your fishing line",
     "FishingCastKeyBindHelp": "Press {1} to cast your fishing line",
     "Paused": "Paused",
-    "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!"
+    "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!",
+    "HeaderClanFlagsList": "Clan Flags"
 }

@@ -660,5 +660,6 @@
     "FishingCastCommandHelp": "Usa {1} para lanzar tu hilo de pescar",
     "FishingCastKeyBindHelp": "Presiona {1} para lanzar tu hilo de pescar",
     "Paused": "En Pausa",
-    "PaintBallAlmostWin": "¡{1} solo necesitas {2} muertes más para ganar la partida de paintball!"
+    "PaintBallAlmostWin": "¡{1} solo necesitas {2} muertes más para ganar la partida de paintball!",
+    "HeaderClanFlagsList": "Clan Flags"
 }
