@@ -63,8 +63,8 @@
 	"InvalidItemType": "نوع العنصر غير موجود!",
 	"InvalidRadioStation": "لم يتم العثور على محطة راديو!",
 	"InvalidGate": "البوابة غير موجودة!",
-	"EntersProperty": "يفتح الباب ويدخل {1}",
-	"ExitsProperty": "يفتح الباب ويخرج من {1}",
+	"EntersProperty": "({2}) يفتح الباب ويدخل {1}",
+	"ExitsProperty": "({2}) يفتح الباب ويخرج من {1}",
 	"EnterExitPropertyDoorLocked": "يحاول فتح الباب {1} ولكنه يفشل لأنه مغلق",
 	"PropertyNoInterior": "هذا ليس له جزء داخلي {1}، ولكن لا يزال بإمكانك استخدام الأوامر على أيقونة الباب.",
 	"NoBusinessWithItemType": "لا يوجد عمل مع هذا الخيار متاح",
@@ -655,5 +655,23 @@
     "FishingCastKeyBindHelp": "اضغط على {1} لإلقاء خط الصيد الخاص بك",
     "Paused": "متوقف مؤقتًا",
     "PaintBallAlmostWin": "{1} يحتاج فقط إلى {2} عمليات قتل أخرى للفوز بمباراة كرة الطلاء!",
-    "HeaderClanFlagsList": "Clan Flags"
+    "HeaderClanFlagsList": "Clan Flags ({1})",
+    "PleaseWait": "Please wait ...",
+    "HeaderServerRulesList": "Server Rules",
+    "FrequencyChannelChanged": "You set the channel of your {1} in slot {2} to {3}",
+    "ItemTurnedOnOff": "You turned {1} your {2} in slot {3}",
+    "SkinSelectHelpTextSkin": "Press {1} or {2} to switch skin, {3} to save, or {4} to cancel",
+    "SkinSelectHelpTextBodyPart": "Press {1} or {2} to switch body part",
+    "SkinSelectBodyPartNames": {
+        "Head": "Head",
+        "UpperBody": "Upper Body",
+        "LowerBody": "Lower Body",
+        "Hair": "Hair",
+        "Hat": "Hat",
+        "Glasses": "Glasses",
+        "LeftHand": "Left Hand",
+        "RightHand": "Right Hand",
+        "LeftWrist": "Left Wrist",
+        "RightWrist": "Right Wrist"
+    }
 }

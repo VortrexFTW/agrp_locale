@@ -63,8 +63,8 @@
     "InvalidItemType": "kohteen tyyppiä ei löytynyt!",
     "InvalidRadioStation": "Radio kanavaa ei löytynyt!",
     "InvalidGate": "porttia ei löytynyt!",
-    "EntersProperty": "avaa oven ja astuu sisään {1}",
-    "ExitsProperty": "avaa oven ja astuu pois {1}",
+    "EntersProperty": "avaa oven ja astuu sisään {1} ({2})",
+    "ExitsProperty": "avaa oven ja astuu pois {1} ({2})",
     "EnterExitPropertyDoorLocked": "yrittää avata oven {1} ovi mutta epäonnistuu koska se on lukittu",
     "PropertyNoInterior": "Tämä {1} ei sisällä sisätilaa, mutta voit silti käyttää komentoja ovikuvakkeessa.",
     "NoBusinessWithItemType": "täällä ei ole kauppaa kyseisen tuotteen kanssa",
@@ -654,5 +654,23 @@
     "FishingCastKeyBindHelp": "Press {1} to cast your fishing line",
     "Paused": "Paused",
     "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!",
-    "HeaderClanFlagsList": "Clan Flags"
+    "HeaderClanFlagsList": "Clan Flags ({1})",
+    "PleaseWait": "Please wait ...",
+    "HeaderServerRulesList": "Server Rules",
+    "FrequencyChannelChanged": "You set the channel of your {1} in slot {2} to {3}",
+    "ItemTurnedOnOff": "You turned {1} your {2} in slot {3}",
+    "SkinSelectHelpTextSkin": "Press {1} or {2} to switch skin, {3} to save, or {4} to cancel",
+    "SkinSelectHelpTextBodyPart": "Press {1} or {2} to switch body part",
+    "SkinSelectBodyPartNames": {
+        "Head": "Head",
+        "UpperBody": "Upper Body",
+        "LowerBody": "Lower Body",
+        "Hair": "Hair",
+        "Hat": "Hat",
+        "Glasses": "Glasses",
+        "LeftHand": "Left Hand",
+        "RightHand": "Right Hand",
+        "LeftWrist": "Left Wrist",
+        "RightWrist": "Right Wrist"
+    }
 }

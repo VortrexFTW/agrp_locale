@@ -62,8 +62,8 @@
 	"InvalidItemType": "物品种类不存在！",
 	"InvalidRadioStation": "电台不存在！",
 	"InvalidGate": "大门不存在！",
-	"EntersProperty": "开门并进入 {1}",
-	"ExitsProperty": "开门并退出 {1}",
+	"EntersProperty": "开门并进入 {1} ({2})",
+	"ExitsProperty": "开门并退出 {1} ({2})",
 	"EnterExitPropertyDoorLocked": "试图打开 {1} 之门，却发现已上锁。",
 	"PropertyNoInterior": "{1} 暂无内部场景，但你仍可以在大门图标上使用相关指令。",
 	"NoBusinessWithItemType": "暂无可用项目的企业",
@@ -654,5 +654,23 @@
     "FishingCastKeyBindHelp": "按下 {1} 以抛竿",
     "Paused": "已暂停",
     "PaintBallAlmostWin": "{1} 仅剩 {2} 次击杀即可赢得彩弹比赛！",
-	"HeaderClanFlagsList": "Clan Flags"
+	"HeaderClanFlagsList": "Clan Flags ({1})",
+    "PleaseWait": "Please wait ...",
+    "HeaderServerRulesList": "Server Rules",
+    "FrequencyChannelChanged": "You set the channel of your {1} in slot {2} to {3}",
+    "ItemTurnedOnOff": "You turned {1} your {2} in slot {3}",
+    "SkinSelectHelpTextSkin": "Press {1} or {2} to switch skin, {3} to save, or {4} to cancel",
+    "SkinSelectHelpTextBodyPart": "Press {1} or {2} to switch body part",
+    "SkinSelectBodyPartNames": {
+        "Head": "Head",
+        "UpperBody": "Upper Body",
+        "LowerBody": "Lower Body",
+        "Hair": "Hair",
+        "Hat": "Hat",
+        "Glasses": "Glasses",
+        "LeftHand": "Left Hand",
+        "RightHand": "Right Hand",
+        "LeftWrist": "Left Wrist",
+        "RightWrist": "Right Wrist"
+    }
 }

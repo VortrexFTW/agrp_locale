@@ -62,8 +62,8 @@
     "InvalidItemType": "Rodzaj przedmiot nie znaleziony!",
     "InvalidRadioStation": "Stacja radiowa nie znaleziona!",
     "InvalidGate": "Brama nie znaleziona!",
-    "EntersProperty": "otwiera drzwi i wchodzi do {1}",
-    "ExitsProperty": "otwiera drzwi i wychodzi z {1}",
+    "EntersProperty": "otwiera drzwi i wchodzi do {1} ({2})",
+    "ExitsProperty": "otwiera drzwi i wychodzi z {1} ({2})",
     "EnterExitPropertyDoorLocked": "próbuje otworzyć {1} drzwi, ale nie udaje się, ponieważ są zamknięte",
     "PropertyNoInterior": "Ten {1} nie ma wnętrza, ale dalej możesz używaj komend przy ikonie drzwi.",
     "NoBusinessWithItemType": "Nie ma biznesu, który posiada ten przedmiot",
@@ -653,5 +653,23 @@
     "FishingCastKeyBindHelp": "Press {1} to cast your fishing line",
     "Paused": "Paused",
     "PaintBallAlmostWin": "{1} only needs {2} more kills to win the paintball match!",
-    "HeaderClanFlagsList": "Clan Flags"
+    "HeaderClanFlagsList": "Clan Flags ({1})",
+    "PleaseWait": "Please wait ...",
+    "HeaderServerRulesList": "Server Rules",
+    "FrequencyChannelChanged": "You set the channel of your {1} in slot {2} to {3}",
+    "ItemTurnedOnOff": "You turned {1} your {2} in slot {3}",
+    "SkinSelectHelpTextSkin": "Press {1} or {2} to switch skin, {3} to save, or {4} to cancel",
+    "SkinSelectHelpTextBodyPart": "Press {1} or {2} to switch body part",
+    "SkinSelectBodyPartNames": {
+        "Head": "Head",
+        "UpperBody": "Upper Body",
+        "LowerBody": "Lower Body",
+        "Hair": "Hair",
+        "Hat": "Hat",
+        "Glasses": "Glasses",
+        "LeftHand": "Left Hand",
+        "RightHand": "Right Hand",
+        "LeftWrist": "Left Wrist",
+        "RightWrist": "Right Wrist"
+    }
 }

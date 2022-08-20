@@ -63,8 +63,8 @@
     "InvalidItemType": "Не удалось найти предмет!",
     "InvalidRadioStation": "Не удалось найти радиостанцию!",
     "InvalidGate": "Не удалось найти ворота!",
-    "EntersProperty": "открывает дверь и входит в {1}",
-    "ExitsProperty": "открывает дверь и покидает {1}",
+    "EntersProperty": "открывает дверь и входит в {1} ({2})",
+    "ExitsProperty": "открывает дверь и покидает {1} ({2})",
     "EnterExitPropertyDoorLocked": "пытаеться открыть двери {1} но у него не выходить потому-что двери закрыты",
     "PropertyNoInterior": "У {1} нет доступного интерьера, но вы все еще можете использовать комманды стоя на значке возле входа.",
     "NoBusinessWithItemType": "Нет бизнесов в которых этот предмет доступен",
@@ -655,5 +655,23 @@
     "FishingCastKeyBindHelp": "Используйте {1} чтобы бросить сетку",
     "Paused": "Пауза",
     "PaintBallAlmostWin": "{1} осталось еще {2} убийтв чтобы выиграть пейнтбольную сессию!",
-    "HeaderClanFlagsList": "Clan Flags"
+    "HeaderClanFlagsList": "Clan Flags ({1})",
+    "PleaseWait": "Please wait ...",
+    "HeaderServerRulesList": "Server Rules",
+    "FrequencyChannelChanged": "You set the channel of your {1} in slot {2} to {3}",
+    "ItemTurnedOnOff": "You turned {1} your {2} in slot {3}",
+    "SkinSelectHelpTextSkin": "Press {1} or {2} to switch skin, {3} to save, or {4} to cancel",
+    "SkinSelectHelpTextBodyPart": "Press {1} or {2} to switch body part",
+    "SkinSelectBodyPartNames": {
+        "Head": "Head",
+        "UpperBody": "Upper Body",
+        "LowerBody": "Lower Body",
+        "Hair": "Hair",
+        "Hat": "Hat",
+        "Glasses": "Glasses",
+        "LeftHand": "Left Hand",
+        "RightHand": "Right Hand",
+        "LeftWrist": "Left Wrist",
+        "RightWrist": "Right Wrist"
+    }
 }
