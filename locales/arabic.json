@@ -192,8 +192,6 @@
 	"TakeItemFromItem": "يأخذ {1} من {2}",
 	"TakeItemFromVehicleTrunk": "يأخذ {1} من صندوق السيارة",
 	"TakeItemFromVehicleDash": "يأخذ {1} من صندوق القفازات",
-	"JobEquipmentInventoryKeyBindTip": "معدات العمل في مخزونك. اضغط على {1} لمشاهدتها.",
-	"JobEquipmentInventoryCommandTip": "معدات العمل في مخزونك. استخدم {1} لمشاهدتها.",
 	"AccountHelp": [
 		"لا تشارك كلمة مرورك مع أي شخص آخر. لن يطالبك فريق عمل {1} بكلمة المرور مطلقًا",
 		"استخدم {1} لتغيير كلمة المرور الخاصة بك ، و {2} إذا نسيتها",

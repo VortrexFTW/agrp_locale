@@ -191,8 +191,6 @@
 	"TakeItemFromItem": "从 {2} 处拿到 {1}",
 	"TakeItemFromVehicleTrunk": "从后备箱中取出 {1}",
 	"TakeItemFromVehicleDash": "从杂物箱中取出 {1}",
-	"JobEquipmentInventoryKeyBindTip": "工作设备存放在你的仓库里，按下 {1} 以查看。",
-	"JobEquipmentInventoryCommandTip": "工作设备存放在你的仓库里，使用 {1} 以查看。",
 	"AccountHelp": [
 		"请不要将密码分享给任何人，且 {1} 工作人员不会询问你的密码。",
 		"使用 {1} 以更改密码，若遗忘密码请使用 {2} 。",
@@ -370,8 +368,6 @@
 	"AccessDenied": "拒绝访问",
 	"InvalidSkin": "该皮肤无效！",
 	"HeaderInteriorTypes": "内部场景列表",
-	"ViewInventoryKeyPressTip": "按下 {1} 以查看你的全部物品",
-	"ViewInventoryCommandTip": "使用 {1} 以查看你的全部物品",
 	"GUIAccountSettingToggle": "已切换至 {1} GUI",
 
 	"ADDED-23MAR2022": "DO NOT TRANSLATE. This string is just a comment to separate newly added translations",
@@ -624,7 +620,6 @@
     "HeaderEventWinners": "获胜者",
     "YourPaintBallResults": "你的彩弹竞技成绩：{1} 次击杀，{2} 次死亡",
     "NoPrivateMessageToReply": "暂未收到未读私信",
-    "PrivateMessageReplyCommandTip": "使用 {1} 以快速回复私信",
     "WeaponDoesNotUseAmmo": "{1} 无需装弹",
     "ChatBoxTimestampsToggle": "聊天框时间显示现已 {1} ",
     "ProfanityFilterSet": "过滤冒犯性词汇现已 {1}",
