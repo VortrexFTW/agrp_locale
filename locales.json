@@ -112,6 +112,26 @@
 			"countries": ["fi"],
 			"requiresUnicode": false,
 			"contributor": "SIMBA_MEOW"
+		},
+		{
+			"id": 11,
+			"englishName": "Lithuanian",
+			"stringsFile": "lithuanian.json",
+			"isoCode": "lt",
+			"flagImageFile": "lt.png",
+			"countries": ["lt"],
+			"requiresUnicode": false,
+			"contributor": "dovis"
+		},
+		{
+			"id": 12,
+			"englishName": "Latvian",
+			"stringsFile": "latvian.json",
+			"isoCode": "lv",
+			"flagImageFile": "lv.png",
+			"countries": ["lv"],
+			"requiresUnicode": false,
+			"contributor": "YuOn"
 		}
     ]
 }
