@@ -11,7 +11,8 @@
 			"flagImageFile": "uk.png",
 			"countries": ["gb", "us", "au", "bz", "ca", "ie", "jm", "nz", "za", "tt"],
 			"requiresUnicode": false,
-			"contributor": "Vortrex"
+			"contributor": "Vortrex",
+			"enabled": true
 		},
         {
 			"id": 1,
@@ -21,7 +22,8 @@
 			"flagImageFile": "ru.png",
 			"countries": ["ru", "ua"],
 			"requiresUnicode": false,
-			"contributor": "VNDTTS"
+			"contributor": "VNDTTS",
+			"enabled": true
 		},
 		{
 			"id": 2,
@@ -31,7 +33,8 @@
 			"flagImageFile": "pl.png",
 			"countries": ["pl"],
 			"requiresUnicode": false,
-			"contributor": "Suprise444"
+			"contributor": "Suprise444",
+			"enabled": true
 		},
 		{
 			"id": 3,
@@ -41,7 +44,8 @@
 			"flagImageFile": "es.png",
 			"countries": ["es", "ar", "bo", "cl", "co", "cr", "do", "ec", "sv", "gt", "hn", "mx", "ni", "pa", "py", "pe", "pr", "uy", "ve"],
 			"requiresUnicode": false,
-			"contributor": "PerikiyoXD"
+			"contributor": "PerikiyoXD",
+			"enabled": true
 		},
 		{
 			"id": 4,
@@ -51,7 +55,8 @@
 			"flagImageFile": "cn.png",
 			"countries": ["cn", "hk", "sg", "tw"],
 			"requiresUnicode": true,
-			"contributor": "Renzuko_Ctone"
+			"contributor": "Renzuko_Ctone",
+			"enabled": true
 		},
 		{
 			"id": 5,
@@ -61,7 +66,8 @@
 			"flagImageFile": "sa.png",
 			"countries": ["dz", "bh", "eg",	"iq", "jo", "kw", "lb", "ly", "ma", "om", "qa", "sa", "sy", "tn", "ae", "ye"],
 			"requiresUnicode": true,
-			"contributor": "! KASIR"
+			"contributor": "! KASIR",
+			"enabled": true
 		},
 		{
 			"id": 6,
@@ -71,7 +77,8 @@
 			"flagImageFile": "sk.png",
 			"countries": ["sk"],
 			"requiresUnicode": false,
-			"contributor": "UAKLAUS"
+			"contributor": "UAKLAUS",
+			"enabled": false
 		},
 		{
 			"id": 7,
@@ -81,7 +88,8 @@
 			"flagImageFile": "de.png",
 			"countries": ["de", "at", "be", "ch", "li", "lu"],
 			"requiresUnicode": false,
-			"contributor": "Sladernimo"
+			"contributor": "Sladernimo",
+			"enabled": true
 		},
 		{
 			"id": 8,
@@ -91,7 +99,8 @@
 			"flagImageFile": "fr.png",
 			"countries": ["fr", "cd", "bj", "bf", "cd", "cg", "ga", "gn", "ml", "mc", "ne", "sn"],
 			"requiresUnicode": false,
-			"contributor": "Cocam"
+			"contributor": "Cocam",
+			"enabled": false
 		},
 		{
 			"id": 9,
@@ -101,7 +110,8 @@
 			"flagImageFile": "jp.png",
 			"countries": ["jp"],
 			"requiresUnicode": true,
-			"contributor": "Cocam"
+			"contributor": "Cocam",
+			"enabled": false
 		},
 		{
 			"id": 10,
@@ -111,7 +121,8 @@
 			"flagImageFile": "fi.png",
 			"countries": ["fi"],
 			"requiresUnicode": false,
-			"contributor": "SIMBA_MEOW"
+			"contributor": "SIMBA_MEOW",
+			"enabled": true
 		},
 		{
 			"id": 11,
@@ -121,7 +132,8 @@
 			"flagImageFile": "lt.png",
 			"countries": ["lt"],
 			"requiresUnicode": false,
-			"contributor": "dovis"
+			"contributor": "dovis",
+			"enabled": false
 		},
 		{
 			"id": 12,
@@ -131,7 +143,19 @@
 			"flagImageFile": "lv.png",
 			"countries": ["lv"],
 			"requiresUnicode": false,
-			"contributor": "YuOn"
+			"contributor": "YuOn",
+			"enabled": false
+		},
+		{
+			"id": 13,
+			"englishName": "Persian",
+			"stringsFile": "persian.json",
+			"isoCode": "fa",
+			"flagImageFile": "ir.png",
+			"countries": ["ir"],
+			"requiresUnicode": true,
+			"contributor": "bigmohammad",
+			"enabled": false
 		}
     ]
 }
