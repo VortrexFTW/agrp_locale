@@ -576,7 +576,7 @@
     "HeaderNPCInfo": "NPC 信息",
     "NPCAnimationSet": "已将 NPC {1} 的动作设定为 {2}",
     "NPCNameSet": "已将 NPC {1} 的名字更改为 {2}",
-    "VehicleRepairTooFar": "你离那辆车太远了！",
+    "VehicleTooFar": "你离那辆车太远了！",
     "HeaderPropertyTemplateTypes": "资产类型",
     "MustBeLoggedInAndSpawnedToChat": "发送消息前请先登录并进入游戏世界。",
     "MutedCantChat": "你已被禁言。",

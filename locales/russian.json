@@ -576,7 +576,7 @@
 	"HeaderNPCInfo": "NPC Инфо",
 	"NPCAnimationSet": "Вы установили анимацию NPC {1} на {2}",
 	"NPCNameSet": "Вы установили имя NPC {1} на {2}",
-	"VehicleRepairTooFar": "Вы слишком далеко от транспорта!",
+	"VehicleTooFar": "Вы слишком далеко от транспорта!",
 	"HeaderPropertyTemplateTypes": "Типы имуществ",
 	"MustBeLoggedInAndSpawnedToChat": "Вы должны войти и возродиться перед тем как использовать чат!",
 	"MutedCantChat": "Вас мутнули, вы не можете чаттить!",

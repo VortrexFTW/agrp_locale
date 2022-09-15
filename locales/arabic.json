@@ -579,7 +579,7 @@
     "HeaderNPCInfo": "معلومات الشخصية",
     "NPCAnimationSet": "تم تحديد الشخصية {1} على {2}",
     "NPCNameSet": "قمت بتعيين اسم الشخصية {1} على {2}",
-    "VehicleRepairTooFar": "أنت بعيد جدًا عن السيارة!",
+    "VehicleTooFar": "أنت بعيد جدًا عن السيارة!",
     "HeaderPropertyTemplateTypes": "أنواع العقارات",
     "MustBeLoggedInAndSpawnedToChat": "تحتاج إلى تسجيل الدخول ونشرها قبل أن تتمكن من الدردشة!",
     "MutedCantChat": "تم إعطاءك ميوت ولا يمكنك الدردشة!",

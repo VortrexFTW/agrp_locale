@@ -574,7 +574,7 @@
 	"HeaderNPCInfo": "Informacje o NPC",
 	"NPCAnimationSet": "Ustawiłeś animacje NPC {1} na animacje {2}",
 	"NPCNameSet": "Ustawiłeś nazwę NPC {1} na {2}",
-	"VehicleRepairTooFar": "Jesteś za daleko od pojazdu!",
+	"VehicleTooFar": "Jesteś za daleko od pojazdu!",
 	"HeaderPropertyTemplateTypes": "Rodzaje posesji",
 	"MustBeLoggedInAndSpawnedToChat": "Musisz być zalogowany oraz zrespiony aby rozmawiać na czacie!",
 	"MutedCantChat": "Jesteś wyciszony i nie możesz rozmawiać na czacie!",

@@ -582,7 +582,7 @@
 	"HeaderNPCInfo": "Información de NPC",
 	"NPCAnimationSet": "Estableciste la animación del NPC {1} a {2}",
 	"NPCNameSet": "Estableciste el nombre del NPC {1} a {2}",
-	"VehicleRepairTooFar": "¡Estás demasiado lejos del vehículo!",
+	"VehicleTooFar": "¡Estás demasiado lejos del vehículo!",
 	"HeaderPropertyTemplateTypes": "Tipos de propiedad",
 	"MustBeLoggedInAndSpawnedToChat": "¡Debes iniciar sesión y spawnearse antes de poder chatear!",
 	"MutedCantChat": "¡Estás silenciado y no puedes chatear!",
