@@ -17,6 +17,9 @@
 	<file type="client" src="locales/finnish.json" />
 	<file type="client" src="locales/chinese.json" />
 	<file type="client" src="locales/arabic.json" />
+	<file type="client" src="locales/lithuanian.json" />
+	<file type="client" src="locales/latvian.json" />
+	<file type="client" src="locales/persian.json" />
 
 	<!-- International Flag Images -->
 	<file type="client" src="files/images/flags/uk.png" />
@@ -30,4 +33,7 @@
 	<file type="client" src="files/images/flags/cn.png" />
 	<file type="client" src="files/images/flags/fi.png" />
 	<file type="client" src="files/images/flags/ru.png" />
+	<file type="client" src="files/images/flags/lt.png" />
+	<file type="client" src="files/images/flags/lv.png" />
+	<file type="client" src="files/images/flags/ir.png" />
 </meta>
