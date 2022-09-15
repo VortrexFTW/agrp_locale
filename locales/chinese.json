@@ -484,20 +484,6 @@
 	"BuyBusinessLabel": "使用 {1} 以买下这家企业",
 	"BuyHouseLabel": "使用 {1} 以买下这处住宅",
 	"RentHouseLabel": "使用 {1} 以租用这处住宅",
-	"DisconnectReasons": [
-		"失去连接",
-		"断开连接",
-		"不支持的客户端",
-		"游戏错误",
-		"密码错误",
-		"不支持的游戏主程序",
-		"断开连接",
-		"已被封禁",
-		"连接失败",
-		"无效的游戏名",
-		"客户端崩溃",
-		"非原版游戏"
-	],
     "AccountEmailAlreadyVerified": "成功设置并验证你的电子邮件！",
     "EmailVerificationCodeSent": "验证码与相关说明已发送至你的电子邮件！",
     "GUIPlayAsCharacterButton": "开始",
@@ -667,5 +653,40 @@
         "RightHand": "Right Hand",
         "LeftWrist": "Left Wrist",
         "RightWrist": "Right Wrist"
-    }
+    },
+	"ActionTips": {
+		"VehicleEngineOffWhenEnteringKey": "Use {1} to turn on or off a vehicle's engine",
+		"VehicleLockedAfterEntryAttempt": "Use {1} to lock or unlock a vehicle",
+		"ShowItemsAfterPurchase": "Use {1} to see your inventory",
+		"BuyCommandAfterEnterBusiness": "Use {1} to buy items from a business",
+		"UseItemKeyAfterEquipping": "Use {1} to use your equipped item",
+		"UseItemKeyAfterEquippingWalkieTalkie": "Use {1} to turn on or off your radio",
+		"RadioCommandAfterEnablingWalkieTalkie": "Use {1} to talk on your radio",
+		"ReplyToDirectMessage": "Use {1} to easily reply to a private message",
+		"UseItemKeyAmmoAfterEquippingWeapon": "Use {1} to load an ammo item into your equipped weapon",
+		"AnimationStop": "Use {1} to stop your animation",
+		"JobEquipmentInventory": "The job equipment is in your inventory. Use {1} to see them.",
+		"ViewInventory": "Use {1} to see your items",
+		"VehicleRepairItemUsage": "Stand next to a vehicle and use {1} to repair it",
+		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
+		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
+		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
+		"GenericItemUsage": "Use {1} to use the {2}"
+	},
+	"DisconnectReasons": {
+		"LostConnection": "Lost Connection",
+		"Disconnected": "Disconnected",
+		"UnsupportedClient": "Unsupported Client",
+		"WrongGame": "Wrong Game",
+		"IncorrectPassword": "Incorrect Password",
+		"UnsupportedExecutable": "Unsupported Executable",
+		"Kicked": "Disconnected",
+		"Banned": "Banned",
+		"Failed": "Failed",
+		"InvalidName": "Invalid Name",
+		"Crashed": "Crashed",
+		"ModifiedGame": "Modified Game",
+		"FailedToLogin": "Kicked - Failed to login",
+		"NotATester": "Kicked - Not a tester"
+	}
 }

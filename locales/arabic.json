@@ -487,20 +487,6 @@
 	"BuyBusinessLabel": "استخدم {1} لشراء هذا النشاط التجاري",
 	"BuyHouseLabel": "استخدم {1} لشراء هذا المنزل",
 	"RentHouseLabel": "استخدم {1} لاستئجار هذا المنزل",
-	"DisconnectReasons": [
-		"انقطع الإتصال",
-		"انقطع الاتصال",
-		"عميل غير مدعوم",
-		"تحذير للعبة",
-		"كلمة سر غير صحيحه",
-		"قابل للتنفيذ غير معتمد",
-		"انقطع الاتصال",
-		"حظر",
-		"فشل",
-		"اسم غير صالح",
-		"خطأ",
-		"لعبة معدلة"
-	],
     "AccountEmailAlreadyVerified": "لقد قمت بالفعل بتعيين والتحقق من بريدك الإلكتروني!",
     "EmailVerificationCodeSent": "تم إرسال رمز التحقق والتعليمات إلى بريدك الإلكتروني.",
     "GUIPlayAsCharacterButton": "لعب",
@@ -671,5 +657,40 @@
         "RightHand": "Right Hand",
         "LeftWrist": "Left Wrist",
         "RightWrist": "Right Wrist"
-    }
+    },
+	"ActionTips": {
+		"VehicleEngineOffWhenEnteringKey": "Use {1} to turn on or off a vehicle's engine",
+		"VehicleLockedAfterEntryAttempt": "Use {1} to lock or unlock a vehicle",
+		"ShowItemsAfterPurchase": "Use {1} to see your inventory",
+		"BuyCommandAfterEnterBusiness": "Use {1} to buy items from a business",
+		"UseItemKeyAfterEquipping": "Use {1} to use your equipped item",
+		"UseItemKeyAfterEquippingWalkieTalkie": "Use {1} to turn on or off your radio",
+		"RadioCommandAfterEnablingWalkieTalkie": "Use {1} to talk on your radio",
+		"ReplyToDirectMessage": "Use {1} to easily reply to a private message",
+		"UseItemKeyAmmoAfterEquippingWeapon": "Use {1} to load an ammo item into your equipped weapon",
+		"AnimationStop": "Use {1} to stop your animation",
+		"JobEquipmentInventory": "The job equipment is in your inventory. Use {1} to see them.",
+		"ViewInventory": "Use {1} to see your items",
+		"VehicleRepairItemUsage": "Stand next to a vehicle and use {1} to repair it",
+		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
+		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
+		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
+		"GenericItemUsage": "Use {1} to use the {2}"
+	},
+	"DisconnectReasons": {
+		"LostConnection": "Lost Connection",
+		"Disconnected": "Disconnected",
+		"UnsupportedClient": "Unsupported Client",
+		"WrongGame": "Wrong Game",
+		"IncorrectPassword": "Incorrect Password",
+		"UnsupportedExecutable": "Unsupported Executable",
+		"Kicked": "Disconnected",
+		"Banned": "Banned",
+		"Failed": "Failed",
+		"InvalidName": "Invalid Name",
+		"Crashed": "Crashed",
+		"ModifiedGame": "Modified Game",
+		"FailedToLogin": "Kicked - Failed to login",
+		"NotATester": "Kicked - Not a tester"
+	}
 }

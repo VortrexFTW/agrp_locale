@@ -483,19 +483,6 @@
 	"BuyBusinessLabel": "Użyj {1} aby kupić tą firmę",
 	"BuyHouseLabel": "Użyj {1} aby kupić to mieszkanie",
 	"RentHouseLabel": "Użyj {1} aby wynająć to mieszkanie",
-	"DisconnectReasons": [
-		"Utracenie Połączenia",
-		"Odłączenie",
-		"Niewspierana Wersja",
-		"Nieprawidłowa Gra",
-		"Błędne Hasło",
-		"Niewspierany Plik Wykonalny",
-		"Odłączenie",
-		"Zbanowany",
-		"Nie udane",
-		"Nieprawidłowa Nazwa",
-		"Zmodyfikowana gra"
-	],
 	"AccountEmailAlreadyVerified": "Już ustawiłeś oraz zweryfikowałeś swój email!",
 	"EmailVerificationCodeSent": "Kod weryfikacyjny wraz z instrukcjami został wysłany na twój email.",
 	"GUIPlayAsCharacterButton": "Graj",
@@ -678,6 +665,28 @@
 		"UseItemKeyAmmoAfterEquippingWeapon": "Use {1} to load an ammo item into your equipped weapon",
 		"AnimationStop": "Use {1} to stop your animation",
 		"JobEquipmentInventory": "The job equipment is in your inventory. Use {1} to see them.",
-		"ViewInventory": "Use {1} to see your items"
+		"ViewInventory": "Use {1} to see your items",
+		"VehicleRepairItemUsage": "Stand next to a vehicle and use {1} to repair it",
+		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
+		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
+		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
+		"GenericItemUsage": "Use {1} to use the {2}"
+	},
+	"DisconnectReasons": {
+		"Unknown": "Unknown",
+		"LostConnection": "Lost Connection",
+		"Disconnected": "Disconnected",
+		"UnsupportedClient": "Unsupported Client",
+		"WrongGame": "Wrong Game",
+		"IncorrectPassword": "Incorrect Password",
+		"UnsupportedExecutable": "Unsupported Executable",
+		"Kicked": "Disconnected",
+		"Banned": "Banned",
+		"Failed": "Failed",
+		"InvalidName": "Invalid Name",
+		"Crashed": "Crashed",
+		"ModifiedGame": "Modified Game",
+		"FailedToLogin": "Kicked - Failed to login",
+		"NotATester": "Kicked - Not a tester"
 	}
 }

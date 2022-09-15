@@ -484,20 +484,6 @@
 	"BuyBusinessLabel": "Используйте {1} чтобы купить этот бизнес",
 	"BuyHouseLabel": "Используйте {1} чтобы купить этот дом",
 	"RentHouseLabel": "Используйте {1} чтобы снять этот дом",
-	"DisconnectReasons": [
-		"Потеряно соединение",
-		"Отключен",
-		"Неподерживаемый клинт",
-		"Неправильная игра",
-		"Неправильный пароль",
-		"Неподдерживаемый Exe",
-		"Отключился",
-		"Забанен",
-		"Не удалось",
-		"Не правильное имя",
-		"Вылетел",
-		"Игра Модифицирована"
-	],
 	"AccountEmailAlreadyVerified": "Вы уже установили и подтвердили ваш адрес элекронной почты!",
 	"EmailVerificationCodeSent": "Код подтверждения и дальнейшие инструкции были посланы на ваш адрес электронной почты.",
 	"GUIPlayAsCharacterButton": "Играть",
@@ -680,6 +666,28 @@
 		"UseItemKeyAmmoAfterEquippingWeapon": "Use {1} to load an ammo item into your equipped weapon",
 		"AnimationStop": "Use {1} to stop your animation",
 		"JobEquipmentInventory": "The job equipment is in your inventory. Use {1} to see them.",
-		"ViewInventory": "Use {1} to see your items"
+		"ViewInventory": "Use {1} to see your items",
+		"VehicleRepairItemUsage": "Stand next to a vehicle and use {1} to repair it",
+		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
+		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
+		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
+		"GenericItemUsage": "Use {1} to use the {2}"
+	},
+	"DisconnectReasons": {
+		"Unknown": "Unknown",
+		"LostConnection": "Lost Connection",
+		"Disconnected": "Disconnected",
+		"UnsupportedClient": "Unsupported Client",
+		"WrongGame": "Wrong Game",
+		"IncorrectPassword": "Incorrect Password",
+		"UnsupportedExecutable": "Unsupported Executable",
+		"Kicked": "Disconnected",
+		"Banned": "Banned",
+		"Failed": "Failed",
+		"InvalidName": "Invalid Name",
+		"Crashed": "Crashed",
+		"ModifiedGame": "Modified Game",
+		"FailedToLogin": "Kicked - Failed to login",
+		"NotATester": "Kicked - Not a tester"
 	}
 }
