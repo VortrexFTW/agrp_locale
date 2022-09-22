@@ -313,14 +313,12 @@
 	"AmountNotNumber": "请输入有效数字！",
 	"NeedToBeWorking": "你得去工作！在求职处或工作专用车旁使用 {1} 。",
 	"NeedToBeOnJobRoute": "你需要进行一个工作路线！请在工作专用车内使用 {1} 。",
-	"CurrentJobRouteDeleted": "管理员已删除你所在的工作路线",
 	"CurrentJobRouteVehicleColoursChanged": "管理员已更改你的工作路线的车辆颜色",
 	"NotYourJob": "这不是你的工作！",
 	"JobPoints": "前往地图上的黄点找到工作。",
 	"QuitJobToTakeAnother": "要是想干这行，先使用 {1} 离开当前工作。",
 	"NotAJobVehicle": "这并不是辆工作专用车！",
 	"NotYourJobVehicle": "这不是你工作用的车！",
-	"JobRouteDisabled": "管理员已禁用你的工作路线",
 	"HeaderPickupTypes": "拾取物类型",
 	"HeaderBlipTypes": "地图图标类型",
 	"InvalidGPSLocation": "没有具有该名称或类型的位置",
@@ -674,6 +672,7 @@
 		"GenericItemUsage": "Use {1} to use the {2}"
 	},
 	"DisconnectReasons": {
+		"Unknown": "Unknown",
 		"LostConnection": "Lost Connection",
 		"Disconnected": "Disconnected",
 		"UnsupportedClient": "Unsupported Client",
@@ -687,6 +686,22 @@
 		"Crashed": "Crashed",
 		"ModifiedGame": "Modified Game",
 		"FailedToLogin": "Kicked - Failed to login",
-		"NotATester": "Kicked - Not a tester"
-	}
+		"NotATester": "Kicked - Not a tester",
+		"ClientScriptVerificationFail": "Client script verification failed (possible hacks)",
+		"ServerRestarting": "Server is restarting",
+		"Desync": "Desynced",
+		"FailedToCreateCharacter": "Kicked - Didn't create a character"
+	},
+	"DevelopersNotified": "The developers have been notified of the problem",
+	"NoJobLocationCloseEnough": "There are no job locations close enough!",
+	"NotAllowedToUseJobs": "You are not allowed to use any jobs!",
+	"CantUseThisJob": "You can't use this job!",
+	"JobChanged": "💼 You now have the {1} job",
+	"NeedToBeNearJob": "You need to be near your job location or a vehicle that belongs to your job!",
+	"DontHaveAJob": "You don't have a job!",
+	"StartedWorking": "💼 You are now working for the {1} job",
+	"StoppedWorking": "You have stopped working",
+	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
+	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
+	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin"
 }

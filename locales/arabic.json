@@ -314,14 +314,12 @@
 	"AmountNotNumber": "المبلغ يجب أن يكون رقما!",
 	"NeedToBeWorking": "يجب أن تعمل! استخدم {1} في موقع العمل أو بالقرب من سيارات العمل.",
 	"NeedToBeOnJobRoute": "عليك أن تفعل طريق عمل! استخدم {1} في مركبة عمل",
-	"CurrentJobRouteDeleted": "تم حذف مسار العمل الذي كنت تعمل فيه بواسطة الإدمن",
 	"CurrentJobRouteVehicleColoursChanged": "تم تغيير ألوان السيارة لمسار وظيفتك بواسطة الإدمن",
 	"NotYourJob": "هذه ليست وظيفتك!",
 	"JobPoints": "يمكنك الحصول على وظيفة من خلال الذهاب إلى النقاط الصفراء على الخريطة.",
 	"QuitJobToTakeAnother": "إذا كنت تريد هذه الوظيفة ، فاستخدم {1} لإنهاء وظيفتك الحالية.",
 	"NotAJobVehicle": "هذه ليست وسيلة عمل!",
 	"NotYourJobVehicle": "هذه ليست مركبة عملك!",
-	"JobRouteDisabled": "تم تعطيل مسار العمل الذي كنت تسلكه بواسطة أحد الإداريين",
 	"HeaderPickupTypes": "أنواع الالتقاط",
 	"HeaderBlipTypes": "أنواع أيقونات الخريطة",
 	"InvalidGPSLocation": "لا توجد مواقع بهذا الاسم أو النوع",
@@ -678,6 +676,7 @@
 		"GenericItemUsage": "Use {1} to use the {2}"
 	},
 	"DisconnectReasons": {
+		"Unknown": "Unknown",
 		"LostConnection": "Lost Connection",
 		"Disconnected": "Disconnected",
 		"UnsupportedClient": "Unsupported Client",
@@ -691,6 +690,22 @@
 		"Crashed": "Crashed",
 		"ModifiedGame": "Modified Game",
 		"FailedToLogin": "Kicked - Failed to login",
-		"NotATester": "Kicked - Not a tester"
-	}
+		"NotATester": "Kicked - Not a tester",
+		"ClientScriptVerificationFail": "Client script verification failed (possible hacks)",
+		"ServerRestarting": "Server is restarting",
+		"Desync": "Desynced",
+		"FailedToCreateCharacter": "Kicked - Didn't create a character"
+	},
+	"DevelopersNotified": "The developers have been notified of the problem",
+	"NoJobLocationCloseEnough": "There are no job locations close enough!",
+	"NotAllowedToUseJobs": "You are not allowed to use any jobs!",
+	"CantUseThisJob": "You can't use this job!",
+	"JobChanged": "💼 You now have the {1} job",
+	"NeedToBeNearJob": "You need to be near your job location or a vehicle that belongs to your job!",
+	"DontHaveAJob": "You don't have a job!",
+	"StartedWorking": "💼 You are now working for the {1} job",
+	"StoppedWorking": "You have stopped working",
+	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
+	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
+	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin"
 }
