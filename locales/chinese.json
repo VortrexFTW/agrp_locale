@@ -160,16 +160,16 @@
 		"周五",
 		"周六"
 	],
-	"CardinalDirections": [
-		"北",
-		"东北",
-		"东",
-		"东南",
-		"南",
-		"西南",
-		"西",
-		"西北"
-	],
+	"CardinalDirections": {
+		"North": "北",
+		"Northeast": "东北",
+		"East": "东",
+		"Southeast": "东南",
+		"South": "南",
+		"Southwest": "西南",
+		"West": "西",
+		"Northwest": "西北"
+	},
 	"NewPlayerReadyToPlay": [
 		"你得到了一些现金，使用 {1} 以找到买东西的地方。",
 		"赚钱靠劳动，求职请前往雷达上的小黄点。",
@@ -309,18 +309,16 @@
 	"InvalidJobUniform": "工作制服不存在！",
 	"InvalidJobEquipment": "工作设备不存在！",
 	"HeaderVehiclesInRangeList": "{1} 内的车辆",
-	"NoVehiclesWithInRange": "{1} 内无任何车辆。",
+	"NoVehiclesWithinRange": "{1} 内无任何车辆。",
 	"AmountNotNumber": "请输入有效数字！",
 	"NeedToBeWorking": "你得去工作！在求职处或工作专用车旁使用 {1} 。",
 	"NeedToBeOnJobRoute": "你需要进行一个工作路线！请在工作专用车内使用 {1} 。",
-	"CurrentJobRouteDeleted": "管理员已删除你所在的工作路线",
 	"CurrentJobRouteVehicleColoursChanged": "管理员已更改你的工作路线的车辆颜色",
 	"NotYourJob": "这不是你的工作！",
 	"JobPoints": "前往地图上的黄点找到工作。",
 	"QuitJobToTakeAnother": "要是想干这行，先使用 {1} 离开当前工作。",
 	"NotAJobVehicle": "这并不是辆工作专用车！",
 	"NotYourJobVehicle": "这不是你工作用的车！",
-	"JobRouteDisabled": "管理员已禁用你的工作路线",
 	"HeaderPickupTypes": "拾取物类型",
 	"HeaderBlipTypes": "地图图标类型",
 	"InvalidGPSLocation": "没有具有该名称或类型的位置",
@@ -671,9 +669,13 @@
 		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
 		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
 		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
-		"GenericItemUsage": "Use {1} to use the {2}"
+		"GenericItemUsage": "Use {1} to use the {2}",
+		"EnterJobVehicleForRoute": "Enter a job vehicle nearby to start a job route",
+		"JobLocations": "Visit a job location to get a job. Use {1} to find a job location",
+		"JobRouteStart": "Use {1} to start a job route with this vehicle"
 	},
 	"DisconnectReasons": {
+		"Unknown": "Unknown",
 		"LostConnection": "Lost Connection",
 		"Disconnected": "Disconnected",
 		"UnsupportedClient": "Unsupported Client",
@@ -687,6 +689,24 @@
 		"Crashed": "Crashed",
 		"ModifiedGame": "Modified Game",
 		"FailedToLogin": "Kicked - Failed to login",
-		"NotATester": "Kicked - Not a tester"
-	}
+		"NotATester": "Kicked - Not a tester",
+		"ClientScriptVerificationFail": "Client script verification failed (possible hacks)",
+		"ServerRestarting": "Server is restarting",
+		"Desync": "Desynced",
+		"FailedToCreateCharacter": "Kicked - Didn't create a character"
+	},
+	"DevelopersNotified": "The developers have been notified of the problem",
+	"NoJobLocationCloseEnough": "There are no job locations close enough!",
+	"NotAllowedToUseJobs": "You are not allowed to use any jobs!",
+	"CantUseThisJob": "You can't use this job!",
+	"JobChanged": "💼 You now have the {1} job",
+	"NeedToBeNearJob": "You need to be near your job location or a vehicle that belongs to your job!",
+	"DontHaveAJob": "You don't have a job!",
+	"StartedWorking": "💼 You are now working for the {1} job",
+	"StoppedWorking": "You have stopped working",
+	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
+	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
+	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin",
+	"YourTax": "Your tax on payday is: {1}. Use {2} for more information.",
+	"YourWealth": "Your with is: {1}. Use {2} for more information."
 }
