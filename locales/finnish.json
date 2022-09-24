@@ -688,7 +688,7 @@
 		"Crashed": "Kaatui",
 		"ModifiedGame": "Muokattu Peli",
 		"FailedToLogin": "Kickattu - Kirjautuminen epäonnistui",
-		"NotATester": "Kickattu - Et ole testaaja!"
+		"NotATester": "Kickattu - Et ole testaaja!",
 		"ClientScriptVerificationFail": "Client script verification failed (possible hacks)",
 		"ServerRestarting": "Server is restarting",
 		"Desync": "Desynced",
