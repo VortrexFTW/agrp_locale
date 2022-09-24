@@ -44,7 +44,7 @@
 			"flagImageFile": "es.png",
 			"countries": ["es", "ar", "bo", "cl", "co", "cr", "do", "ec", "sv", "gt", "hn", "mx", "ni", "pa", "py", "pe", "pr", "uy", "ve"],
 			"requiresUnicode": false,
-			"contributor": "PerikiyoXD",
+			"contributor": "PerikiyoXD and EliasDR",
 			"enabled": true
 		},
 		{
