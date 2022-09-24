@@ -161,16 +161,16 @@
 		"الجمعه",
 		"السبت"
    ],
-	"CardinalDirections": [
-		"شمال",
-		"الشمال الشرقي",
-		"شرق",
-		"الجنوب الشرقي",
-		"جنوب",
-		"جنوب غرب",
-		"غرب",
-		"الشمال الغربي"
-	],
+	"CardinalDirections": {
+		"North": "شمال",
+		"Northeast": "الشمال الشرقي",
+		"East": "شرق",
+		"Southeast": "الجنوب الشرقي",
+		"South": "جنوب",
+		"Southwest": "جنوب غرب",
+		"West": "غرب",
+		"Northwest": "الشمال الغربي"
+	},
 	"NewPlayerReadyToPlay": [
 		"لقد حصلت على بعض من المال. استخدم {1} للبحث عن أماكن لشراء العناصر.",
 		"إذا كنت بحاجة إلى المال،الوظائف هي النقاط الصفراء على الخريطة.",
@@ -310,7 +310,7 @@
 	"InvalidJobUniform": "زي العمل غير موجود!",
 	"InvalidJobEquipment": "لم يتم العثور على معدات العمل!",
 	"HeaderVehiclesInRangeList": "مركبات داخل {1}",
-	"NoVehiclesWithInRange": "لا توجد مركبات داخل {1}",
+	"NoVehiclesWithinRange": "لا توجد مركبات داخل {1}",
 	"AmountNotNumber": "المبلغ يجب أن يكون رقما!",
 	"NeedToBeWorking": "يجب أن تعمل! استخدم {1} في موقع العمل أو بالقرب من سيارات العمل.",
 	"NeedToBeOnJobRoute": "عليك أن تفعل طريق عمل! استخدم {1} في مركبة عمل",
@@ -616,7 +616,7 @@
     "StoppedRentingVehicle": "لقد توقفت عن استئجار {1}",
     "VehicleEngineStartKeyPressTip": "محرك {1} متوقف. اضغط على {2} لبدء تشغيله.",
     "VehicleEngineStartCommandTip": "محرك {1} متوقف. استخدم {2} لبدء تشغيله.",
-    "StartedRentingVehicle": "أنت الآن تستأجر {1} مقابل {1} في الدقيقة. للتوقف عن الاستئجار ، استخدم {2}",
+    "StartedRentingVehicle": "أنت الآن تستأجر {1} مقابل {2} في الدقيقة. للتوقف عن الاستئجار ، استخدم {3}",
     "VehicleAlreadyRentedByOther": "هذه السيارة مستأجرة بالفعل من قبل شخص آخر",
     "VehicleAlreadyRentedBySelf": "أنت تستأجر هذه السيارة بالفعل",
     "JobRankTooLow": "أنت لست رتبة عالية بما يكفي!",
@@ -673,7 +673,10 @@
 		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
 		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
 		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
-		"GenericItemUsage": "Use {1} to use the {2}"
+		"GenericItemUsage": "Use {1} to use the {2}",
+		"EnterJobVehicleForRoute": "Enter a job vehicle nearby to start a job route",
+		"JobLocations": "Visit a job location to get a job. Use {1} to find a job location",
+		"JobRouteStart": "Use {1} to start a job route with this vehicle"
 	},
 	"DisconnectReasons": {
 		"Unknown": "Unknown",
@@ -707,5 +710,7 @@
 	"StoppedWorking": "You have stopped working",
 	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
 	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
-	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin"
+	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin",
+	"YourTax": "Your tax on payday is: {1}. Use {2} for more information.",
+	"YourWealth": "Your with is: {1}. Use {2} for more information."
 }

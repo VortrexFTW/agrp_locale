@@ -160,16 +160,16 @@
 		"Пятница",
 		"Субота"
 	],
-	"CardinalDirections": [
-		"Север",
-		"Северо-восток",
-		"Восток",
-		"Юго-восток",
-		"Юг",
-		"Юго-запад",
-		"Запад",
-		"Северо-запад"
-	],
+	"CardinalDirections": {
+		"North": "Север",
+		"Northeast": "Северо-восток",
+		"East": "Восток",
+		"Southeast": "Юго-восток",
+		"South": "Юг",
+		"Southwest": "Юго-запад",
+		"West": "Запад",
+		"Northwest": "Северо-запад"
+	},
 	"NewPlayerReadyToPlay": [
 		"Вам было надано немного денег. Используйте {1} чтобы найти места в которых можно купить предметы.",
 		"Если вам нужны деньги, желтые точки это места работы на карте.",
@@ -309,7 +309,7 @@
 	"InvalidJobUniform": "Не удалось найти рабочую униформу!",
 	"InvalidJobEquipment": "Не удалось найти рабочее снаряжение!",
 	"HeaderVehiclesInRangeList": "Транспорт в пределах {1}",
-	"NoVehiclesWithInRange": "Нет транспорта в пределах {1}",
+	"NoVehiclesWithinRange": "Нет транспорта в пределах {1}",
 	"AmountNotNumber": "Количество должно быть введено цифрой!",
 	"NeedToBeWorking": "Вы должны быть на работе! Используйте {1} на месте работы или возле рабочего транспорта.",
 	"NeedToBeOnJobRoute": "Вы должны быть на рабочем маршруте! Используйте {1} в рабочем транспорте",
@@ -612,7 +612,7 @@
 	"StoppedRentingVehicle": "Вы перестали снимать {1}",
 	"VehicleEngineStartKeyPressTip": "Двигатель {1} сейчас не в работе. Используйте {2} чтобы запустить его.",
 	"VehicleEngineStartCommandTip": "Двигатель {1} сейчас не в работе. Используйте {2} чтобы его запустить.",
-	"StartedRentingVehicle": "Теперь вы снимаете {1} по {1} за минуту. Чтобы прекратить это используйте {2}",
+	"StartedRentingVehicle": "Теперь вы снимаете {1} по {2} за минуту. Чтобы прекратить это используйте {3}",
 	"VehicleAlreadyRentedByOther": "Этот транспорт уже снимается",
 	"VehicleAlreadyRentedBySelf": "Вы уже снимаете этот транспорт",
 	"JobRankTooLow": "Ваш ранк не достаточно высок!",
@@ -669,7 +669,10 @@
 		"VehicleColourItemUsage": "Stand next to a vehicle and use {1} to change it's colour",
 		"VehiclePartItemUsage": "Stand next to a vehicle and use {1} to upgrade with {2}",
 		"AmmoClipItemUsage": "Equip the weapon and use {1} to load ammo into it",
-		"GenericItemUsage": "Use {1} to use the {2}"
+		"GenericItemUsage": "Use {1} to use the {2}",
+		"EnterJobVehicleForRoute": "Enter a job vehicle nearby to start a job route",
+		"JobLocations": "Visit a job location to get a job. Use {1} to find a job location",
+		"JobRouteStart": "Use {1} to start a job route with this vehicle"
 	},
 	"DisconnectReasons": {
 		"Unknown": "Unknown",
@@ -703,5 +706,7 @@
 	"StoppedWorking": "You have stopped working",
 	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
 	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
-	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin"
+	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin",
+	"YourTax": "Your tax on payday is: {1}. Use {2} for more information.",
+	"YourWealth": "Your with is: {1}. Use {2} for more information."
 }
