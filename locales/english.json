@@ -710,5 +710,5 @@
 	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
 	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin",
 	"YourTax": "Your tax on payday is: {1}. Use {2} for more information.",
-	"YourWealth": "Your with is: {1}. Use {2} for more information."
+	"YourWealth": "Your wealth is: {1}. Use {2} for more information."
 }
