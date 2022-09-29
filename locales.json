@@ -56,7 +56,7 @@
 			"countries": ["cn", "hk", "sg", "tw"],
 			"requiresUnicode": true,
 			"contributor": "Renzuko_Ctone",
-			"enabled": true
+			"enabled": false
 		},
 		{
 			"id": 5,
@@ -67,7 +67,7 @@
 			"countries": ["dz", "bh", "eg",	"iq", "jo", "kw", "lb", "ly", "ma", "om", "qa", "sa", "sy", "tn", "ae", "ye"],
 			"requiresUnicode": true,
 			"contributor": "! KASIR",
-			"enabled": true
+			"enabled": false
 		},
 		{
 			"id": 6,
