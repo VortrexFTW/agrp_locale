@@ -705,7 +705,7 @@
 	"DontHaveAJob": "You don't have a job!",
 	"StartedWorking": "💼 You are now working for the {1} job",
 	"StoppedWorking": "You have stopped working",
-	"ItemStoredForJob": "Your personal items have been stored in your locker while you work",
+	"ItemsStoredForJob": "Your personal items have been stored in your locker while you work",
 	"NoJobRoutesForLocation": "Your job does not have any routes for this location!",
 	"CurrentJobRouteDeleted": "The job route you were on has been deleted or disabled by an admin",
 	"YourTax": "Your tax on payday is: {1}. Use {2} for more information.",

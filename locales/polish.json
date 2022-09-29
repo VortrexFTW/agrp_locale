@@ -703,7 +703,7 @@
 	"DontHaveAJob": "Nie masz pracy!",
 	"StartedWorking": "💼 Zacząłeś prace jako {1}",
 	"StoppedWorking": "Przestałeś pracować",
-	"ItemStoredForJob": "Twoje przedmioty zostały schowane do szafy na czas twojej pracy",
+	"ItemsStoredForJob": "Twoje przedmioty zostały schowane do szafy na czas twojej pracy",
 	"NoJobRoutesForLocation": "Twoja praca nie ma trasy do tej lokacji!",
 	"CurrentJobRouteDeleted": "Trasa na której było została usunięta lub wyłączona przez Admina",
 	"YourTax": "Twoje podaki na wypłacie to: {1}. Użyj {2} aby uzyskać więcej informacji.",
