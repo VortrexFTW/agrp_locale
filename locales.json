@@ -156,6 +156,17 @@
 			"requiresUnicode": true,
 			"contributor": "bigmohammad",
 			"enabled": false
+		},
+		{
+			"id": 14,
+			"englishName": "Québécois French",
+			"stringsFile": "canadian-french.json",
+			"isoCode": "fr-ca",
+			"flagImageFile": "ca.png",
+			"countries": ["ca"],
+			"requiresUnicode": false,
+			"contributor": "BlowMe-Wan Kenobi",
+			"enabled": false
 		}
     ]
 }
