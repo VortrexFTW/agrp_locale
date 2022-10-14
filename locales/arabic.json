@@ -712,5 +712,19 @@
 	"NoJobRoutesForLocation": "عملك ليس له أي طرق لهذا الموقع!",
 	"CurrentJobRouteDeleted": "تم حذف مسار الوظيفة الذي كنت تعمل فيه أو تعطيله من قبل الإدمن",
 	"YourTax": "الضريبة الخاصة بك في يوم الدفع هي: {1}. استخدم {2} لمزيد من المعلومات.",
-	"YourWealth": "ثروتك هي: {1}. استخدم {2} لمزيد من المعلومات."
+	"YourWealth": "ثروتك هي: {1}. استخدم {2} لمزيد من المعلومات.",
+	"InvalidKeyBindName": "Key name not found!",
+	"BusinessPurchased": "🏢You are now the owner of business {1}",
+	"HousePurchased": "🏘️ You are now the owner of house {1}",
+	"CopyAllKeyBindsConfirm": "Are you sure you want to copy your keybinds to the {1} server?",
+	"CopyAllKeyBindsOverwriteWarning": "This will replace all your keybinds on the other server",
+	"NoPromptAccept": "You don't have anything to accept",
+	"NoPromptReject": "You don't have anything to reject",
+	"NotOrderingAnyBusinessItems": "You aren't ordering anything for a business!",
+	"BusinessOrderCanceled": "You cancelled the business item order",
+	"DidNotCreateCharacter": "You do not have a character to play. Goodbye!",
+	"BusinessOrderNotEnoughMoney": "This business doesn't have enough money to order that! Deposit some using {1}",
+
+	"ADDED-12OCT2022": "DO NOT TRANSLATE. Example of line below: You ordered 50 Colt 45 (100 rounds) for $5000!",
+	"BusinessOrderSuccessInfo": "You ordered {1} {2} ({3}) for {4}!"
 }
