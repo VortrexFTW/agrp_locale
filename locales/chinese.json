@@ -721,6 +721,31 @@
 	"DidNotCreateCharacter": "You do not have a character to play. Goodbye!",
 	"BusinessOrderNotEnoughMoney": "This business doesn't have enough money to order that! Deposit some using {1}",
 
-	"ADDED-12OCT2022": "DO NOT TRANSLATE. Example of line below: You ordered 50 Colt 45 (100 rounds) for $5000!",
-	"BusinessOrderSuccessInfo": "You ordered {1} {2} ({3}) for {4}!"
+	"ADDED-12OCT2022": "DO NOT TRANSLATE. Example of line below: You ordered 50 Colt 45 for $5000!",
+	"BusinessOrderSuccessInfo": "You ordered {1} {2} for {4}!",
+
+	"AccountSettings": {
+		"UseWhiteList": "Access whitelist",
+		"UseBlackList": "Access blacklist",
+		"TwoStepAuth": "Require 2FA code on login",
+		"AuthAttemptAlert": "Email login notifications",
+		"NoGUI": "No GUI",
+		"AutoLoginIP": "Automatic login by IP",
+		"NoServerLogo": "No server logo",
+		"AutoSelectLastCharacter": "Automatic spawn as most recent character",
+		"ShowRealTimeClock": "Show real time clock",
+		"UseGUIForItems": "Use GUI for inventory",
+		"UseRadialWheelItems": "Use pie wheel for inventory (like GTA V)",
+		"NoKeyBinds": "No keybinds",
+		"NoRandomTips": "No random tips",
+		"NoActionTips": "No action tips",
+		"ChatBoxTimestamps": "Show time in chat",
+		"ProfanityFilter": "Profanity filter",
+		"ChatAutoHide": "Automatically hide inactive chatbox",
+		"NoPlayerContent": "No custom images (like clan logos or spray tags)",
+		"ChatEmoji": "Show emoji images in chat"
+	},
+	"SaveSettings": "Save Settings",
+	"Cancel": "Cancel",
+	"AlreadyOwnVehicle": "You already own this vehicle!"
 }
