@@ -746,5 +746,6 @@
 	},
 	"SaveSettings": "Save Settings",
 	"Cancel": "Cancel",
-	"AlreadyOwnVehicle": "You already own this vehicle!"
+	"AlreadyOwnVehicle": "You already own this vehicle!",
+	"PropertyEntranceFeeLabel": "Entrance Fee: {1}"
 }
