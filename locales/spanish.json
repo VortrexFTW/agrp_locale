@@ -603,7 +603,6 @@
 	"Player": "Jugador",
 	"BusinessIsNowPaintBall": "Este comercio ahora es un campo de paintball.",
 	"JoinedPaintBall": "Te has unido al juego de paintball..",
-	"LeavePaintBallTip": "Sal del comercio para dejar el juego de paintball.",
 	"ItemsStoredForPaintBall": "Tus artículos se almacenan en tu casillero y serán devueltos cuando abandones el juego de paintball.",
 	"LeftPaintBall": "Has dejado el juego de paintball. Sus artículos han sido devueltos.",
 	"PaintBallEnded": "El partido de paintball ha terminado. Tus artículos han sido devueltos.",
